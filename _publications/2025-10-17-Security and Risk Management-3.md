@@ -23,21 +23,17 @@ This section is used to summarize some of the key concepts I have learned in thi
 - [Peer Response 2 An Introduction to Security and Risk Management](https://am25251.github.io/e-portfolio/files/Peer_Response_2_An_Introduction_to_Security_and_Risk_Management.pdf).
 - [Summary_Post An Introduction to Security and Risk Management](https://am25251.github.io/e-portfolio/files/Summary_An_Introduction_to_Security_and_Risk_Management.pdf).
 
-<br>
+#### Reflective Summary
+
+- [Unit_12_End_of_Module_Assignment_E-Portfolio_Submission v3](https://am25251.github.io/e-portfolio/files/l.pdf).
+
 
 #### Code
 <details>
 text text text
 
-<br>
-<br>
 
-#### Reflective Summary
 
-- [Unit_12_End_of_Module_Assignment_E-Portfolio_Submission v3](https://am25251.github.io/e-portfolio/files/l.pdf).
-
-<br>
-<br>
 
 #### Feedback (tutor)
 
@@ -45,6 +41,8 @@ text text text
 text text text
 
 
-</details>
   
-#### Result XX % (text)
+#### Result
+<details>
+text text text
+
