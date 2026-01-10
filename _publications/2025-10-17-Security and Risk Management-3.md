@@ -27,22 +27,17 @@ This section is used to summarize some of the key concepts I have learned in thi
 
 - [Unit_12_End_of_Module_Assignment_E-Portfolio_Submission v3](https://am25251.github.io/e-portfolio/files/l.pdf).
 
-
 #### Code
 <details>
-text text text
+<summary>Monte Carlo Python Code</summary>
+</details>
 
-
-
-
-#### Feedback (tutor)
-
+#### Feedback
 <details>
-text text text
+<summary>Tutor Feedback</summary>
+</details>
 
-
-  
 #### Result
 <details>
-text text text
-
+<summary>Result</summary>
+</details>
