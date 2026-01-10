@@ -37,8 +37,3 @@ This section is used to summarize some of the key concepts I have learned in thi
 <summary>Tutor Feedback</summary>
 </details>
 
-### Result
-<details>
-<summary>Tutor Feedback</summary>
-</details>
-
