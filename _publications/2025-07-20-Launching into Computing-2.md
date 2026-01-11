@@ -35,8 +35,8 @@ I plan to further explore areas like ethical AI, sustainable software engineerin
 <br>
 
 ### Essays
-- [Part_A_Individual_Programming_Exercise_Comparing_Programming_Languages](https://am25251.github.io/e-portfolio/files/Part_A_Individual_Programming_Exercise_Comparing_Programming_Languages.pdf).
-- [Part_B_Individual_Reflection_Presentation_on_a_Tutor-Specified_Question](https://am25251.github.io/e-portfolio/files/Part_B_Individual_Reflection_Presentation_on_a_Tutor-Specified_Question.pdf)
+- [Part_A_Individual_Programming_Exercise_Comparing_Programming_Languages](https://am25251.github.io/uoe-eportfolio/files/Part_A_Individual_Programming_Exercise_Comparing_Programming_Languages.pdf).
+- [Part_B_Individual_Reflection_Presentation_on_a_Tutor-Specified_Question](https://am25251.github.io/uoe-eportfolio/files/Part_B_Individual_Reflection_Presentation_on_a_Tutor-Specified_Question.pdf)
 
 ### Feedback (tutor)
 
@@ -49,13 +49,13 @@ Result 67 % (Merit)
 
 ### Posts
 
-- [Initial Post - The Evolution of Computing and Its Impact on Business and Society](https://am25251.github.io/e-portfolio/files/Initial_Post_Collaborative_Learning_Discussion_task.pdf).
+- [Initial Post - The Evolution of Computing and Its Impact on Business and Society](https://am25251.github.io/uoe-eportfolio/files/Initial_Post_Collaborative_Learning_Discussion_task.pdf).
 
-- [Peer_Response_1_Collaborative_Learning_Discussion_task](https://am25251.github.io/e-portfolio/files/Peer_Response_1_Collaborative_Learning_Discussion_task.pdf).
+- [Peer_Response_1_Collaborative_Learning_Discussion_task](https://am25251.github.io/uoe-eportfolio/files/Peer_Response_1_Collaborative_Learning_Discussion_task.pdf).
 
-- [Peer_Response_2_Collaborative_Learning_Discussion_task](https://am25251.github.io/e-portfolio/files/Peer_Response_2_Collaborative_Learning_Discussion_task.pdf).
+- [Peer_Response_2_Collaborative_Learning_Discussion_task](https://am25251.github.io/uoe-eportfolio/files/Peer_Response_2_Collaborative_Learning_Discussion_task.pdf).
 
-- [Summary Post_Summary_Collaborative_Learning_Discussion_task](https://am25251.github.io/e-portfolio/files/Summary_Collaborative_Learning_Discussion_task.pdf).
+- [Summary Post_Summary_Collaborative_Learning_Discussion_task](https://am25251.github.io/uoe-eportfolio/files/Summary_Collaborative_Learning_Discussion_task.pdf).
 
 
 ### Feedback (tutor
