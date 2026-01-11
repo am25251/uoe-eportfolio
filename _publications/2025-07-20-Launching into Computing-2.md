@@ -46,12 +46,6 @@ Your reflective presentation shows a strong understanding of the complex ethical
 Result 67 % (Merit)
 </details>
 
-### Reports
-
-<details>
-[Text]
-
-</details>
 
 ### Posts
 
