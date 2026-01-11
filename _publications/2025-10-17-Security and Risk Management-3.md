@@ -32,8 +32,10 @@ Iii. Criticality (25%):  Here I would like to see the acknowledgement of limitat
 
 Iv. Structure and Presentation (as detailed in the assessment guidance) (25%): no problems at all here. Loved the diagrams and how you visualised certain parts for your audience to have better understanding. -25 
 
-*Grade: 95%*
-
+<br>
+Grade: 95%
+<br>
+<br>
 Strong points: Understanding 
 
 Points for further development: Criticality, sources 
@@ -61,8 +63,11 @@ Ii. Application of knowledge and understanding (25%): Here we have somewhat of a
 Iii. Criticality (25%):  Here I would like to see the acknowledgement of limitations and gaps also to the mitigation plans suggested.- 15 
 
 Iv. Structure and Presentation (as detailed in the assessment guidance) (25%): no problems at all here. Loved the diagrams and how you visualised certain parts for your audience to have better understanding. -25 
-
-*Grade: 83*
+<br>
+<br>
+Grade: 83
+<br>
+<br>
 
 Strong points: Understanding 
 
