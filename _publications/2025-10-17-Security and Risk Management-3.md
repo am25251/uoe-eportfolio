@@ -25,12 +25,12 @@ This section is used to summarize some of the key concepts I have learned in thi
 
 ### Reflective Summary
 
-- [Unit_12_End_of_Module_Assignment_E-Portfolio_Submission v3](https://am25251.github.io/uoe-eportfolio/files/Unit_12_End_of_Module_Assignment_E-Portfolio_Submission v3.pdf).
+- [Unit 12 End of Module Assignment E-Portfolio Submission v3](https://am25251.github.io/uoe-eportfolio/files/Unit_12_End_of_Module_Assignment_E-Portfolio_Submission_v3.pdf).
 
 ### Code
-<details>
-<summary>Monte Carlo Python Code</summary>
-</details>
+
+- [Unit 11 Monte Carlo Python Code - Individual Project Executive Summary](https://am25251.github.io/uoe-eportfolio/files/Python_code_Individual_Project_Executive_Summary_Unit_11.py).
+
 
 ### Feedback
 <details>
