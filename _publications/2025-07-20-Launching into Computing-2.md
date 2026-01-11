@@ -12,23 +12,24 @@ excerpt: 'Launching into Computing, fundamentals of computing - Python, OS, arch
 <br>
 <br>
 
-### Learning Outcome
-Throghout the unit I gained foundational knowledge of core computing disciplines, including Software Engineering, Data Science, Artificial Intelligence, Cybersecurity, and Enterprise IT Management. I learned how these areas integrate to solve complex business and societal challenges while considering ethical, legal, and professional implications.
+## Description
+Throughout this unit, I gained much knowledge in core computing disciplines, including Software Engineering, Data Science, Artificial Intelligence (AI), Cybersecurity, and Enterprise IT Management, I also learned how these areas integrate to solve complex business and societal challenges, while considering the ethical, legal, and professional implications.
 
-### Practical Application
-I applied practical computing principles to real-world problems, using methodologies like Agile and DevOps, data analytics, and cybersecurity frameworks, this had strengthened my ability to securly design efficient and ethical computing solutions.
+## Feelings
+I felt Initially, an excitement and apprehension as the breadth of topics covered seemed quite vast. While some areas, like Cybersecurity, were familiar to me, others, such as Artificial Intelligence and Data Science, were more challenging. However, as I progressed through the unit and applied various methodologies, I began to become more confident in my ability to understand and solve complex computing problems.
 
-### Critical Reflection
-The module enhanced my critical thinking and problem-solving skills. I learned to assess the societal and ethical dimensions of technology, particularly regarding AI, data privacy, and equality in computing.
+## Evaluation
+During the unit, I met a solid balance of theory and practice. One of the highlights was learning about how different computing disciplines interact to tackle real-world problems, ethical, societal, and legal considerations, especially in areas like AI and data privacy, was challenging. Nevertheless, involving practical computing principles, such as; Agile, DevOps, and additional cybersecurity frameworks significantly enhanced my ability to design secure and efficient solutions.
 
-### Learning Process
-Through guided research, collaborative exercises, and case analysis, I developed the ability to synthesise information, evaluate methodologies, and apply theoretical knowledge to practical computing challenges.
+## Analysis
+This unit helped me recognize that technical skills alone are not enough in the computing field and comprehending the societal and ethical impacts of technology, especially in AI and data privacy, is crucial. The real-world application of Agile and DevOps methodologies gave me a deeper appreciation for their effectiveness in producing ethical and secure computing solutions. I also learned that legal implications in design is just as important as technical execution.
 
-### Broader Context
-This unit deepened my understanding of computing’s role in driving digital transformation, fostering innovation, and promoting equality, diversity, and inclusion within enterprise and society.
+## Conclusion
+The unit had broadened my understanding of computing role in driving digital transformation and solving societal issues, it was clear that computing is not only about technology, but also about creating responsible, inclusive solutions. Now I realize the importance of integrating ethical considerations into technology design and development.
 
-### Future Direction
-I plan to further explore ethical AI, sustainable software engineering, and enterprise IT governance, focusing on how emerging technologies can support inclusive and responsible digital transformation.
+## Action Plan
+I plan to further explore areas like ethical AI, sustainable software engineering, and enterprise IT governance. I aim to focus on how emerging technologies can be used to foster responsible and inclusive digital transformation, contributing to both business success and societal well-being.
+
 
 <br>
 <br>
