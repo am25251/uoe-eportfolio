@@ -19,7 +19,7 @@ I am excited about the opportunity to deepen my expertise in cyber security. The
 The program’s curriculum is well-structured, providing essential knowledge in areas like digital forensics and risk management. It offers a comprehensive approach, not just technical skills but also understanding the human factors in security. However, the challenge is ensuring the curriculum stays current with emerging threats such as AI-driven attacks (Griffith, 1990).
 
 ### Analysis
-The increasing sophistication of cybercrime necessitates continuous learning and adapting. The program’s integration of technical and leadership modules, including research methods and professional practice, ensures a well-rounded skill set. The major project will allow me to demonstrate my ability to apply theory to real-world challenges (Johnson, 2014).
+The increasing sophistication of cybercrime necessitates continuous learning and adapting. The program’s integration of technical and leadership modules, including research methods and professional practice, ensures a well-rounded skill set. The major project will allow me to demonstrate my ability to apply theory to real-world challenges.
 
 ### Conclusion
 The postgraduate degree will significantly enhance my ability to lead and contribute to the fight against cybercrime, making it a valuable investment in my professional development.
