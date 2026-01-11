@@ -39,7 +39,7 @@ Upon completion, I plan to apply the knowledge gained in leadership roles within
 
 •	University ****** (2025) University ******* online, Study online. Available at: https://****************/********** (Accessed: 19 July 2025).
 
-#### Essays
+### Essays
 
 - [Introduction to IT and Cybersecurity](https://am25251.github.io/e-portfolio/files/Induction.pdf).
 
