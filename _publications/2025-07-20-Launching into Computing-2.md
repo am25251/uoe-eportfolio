@@ -46,7 +46,16 @@ Your reflective presentation shows a strong understanding of the complex ethical
 Result 67 % (Merit)
 </details>
 
+<br>
+<br>
+
 ### Reports
+
+- [Developing a Resilient and Strategic IT_Framework](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_12_A/Developing_a_Resilient_and_Strategic_IT_Framework.pdf).
+- [Predict How AI Blockchain or Quantum Computing Will Shape Computing in the Next Decade](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_12_A/Predict_How_AI_Blockchain_or_Quantum_Computing_Will_Shape_Computing_in_the_Next_Decade.pdf).
+
+<br>
+<br>
 
 ### Posts
 
@@ -67,11 +76,12 @@ You chose a highly relevant topic and structured your ideas clearly, While your 
 Result 72 % (Distinction)
 </details>
 
-### Code
+<br>
+<br>
 
-- [Part A Individual Programming Exercise Comparing Programming Languages](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_12_A/chatbot.js
+### Programming
 
-##### Feedback (tutor)
-<details>
-<summary>Part A Individual Programming Exercise Comparing Programming Languages</summary>
-<details>
+- [Part_A_Individual_Programming_Exercise_Comparing_Programming_Languages](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_12_A/Part_A_Individual_Programming_Exercise_Comparing_Programming_Languages.pdf).
+- [Part_A_Individual Programming Exercise Comparing Programming Languages - Node.js](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_12_A/chatbot.js).
+- [Part_A_Individual Programming Exercise Comparing Programming Languages - Python](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_12_A/chatbot.py).
+
