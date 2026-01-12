@@ -67,7 +67,7 @@ Result 67 % (Merit)
 
 
 - [Algorithm Analysis and Implementation](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_3/Algorithm_Analysis_and_Implementation.pdf).
-- [Bubble_Sort.py](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_1/bubble_Sort.py).
+- [Bubble_Sort](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_1/bubble_Sort.py).
 - [Case Study AI-Powered Assistants in Business Transformation](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_2/Case_Study_AI-Powered_Assistants_in_Business_Transformation.pdf).
 
 
