@@ -35,6 +35,7 @@ I plan to further explore areas like ethical AI, sustainable software engineerin
 <br>
 
 ### Essays
+
 - [Part_A_Individual_Programming_Exercise_Comparing_Programming_Languages](https://am25251.github.io/uoe-eportfolio/files/Part_A_Individual_Programming_Exercise_Comparing_Programming_Languages.pdf).
 - [Part_B_Individual_Reflection_Presentation_on_a_Tutor-Specified_Question](https://am25251.github.io/uoe-eportfolio/files/Part_B_Individual_Reflection_Presentation_on_a_Tutor-Specified_Question.pdf)
 
@@ -86,6 +87,7 @@ Result 67 % (Merit)
 
 
 ##### Feedback (tutor)
+
 <details>
 <summary>Tutor Feedback - Peer Response 1 Collaborative Learning Discussion</summary>
 You chose a highly relevant topic and structured your ideas clearly, While your content covers key shifts in computing, the summary lacked specific reflections on peers’ feedback. Try to go beyond general agreement and engage critically with opposing perspectives. Also, avoid repeating references.
@@ -97,7 +99,6 @@ Result 72 % (Distinction)
 <br>
 
 ### Programming
-
 
 - [Implementing and Evaluating a Simple AI Modell](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_6/Implementing_and_Evaluating_a_Simple_AI_Model.pdf).
 - [Spam Classification on UCI Spambasel](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_6/Spam_Classification_on_UCI_Spambase.py).
