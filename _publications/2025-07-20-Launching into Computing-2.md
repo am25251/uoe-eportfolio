@@ -57,6 +57,20 @@ Result 67 % (Merit)
 - [IT Governance Framework Analysis](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_10/IT_Governance_Framework_Analysis.pdf).
 - [Toyota’s_Digital_Transformation_with_IT_Governance_Frameworks](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_10/Toyota’s_Digital_Transformation_with_IT_Governance_Frameworks.pdf).
 
+- [Disaster Recovery Plan Development](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_9/Disaster_Recovery_Plan_Development.pdf).
+- [Cybersecurity Threat Assessment and Mitigation Plan](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_8/Cybersecurity_Threat_Assessment_and_Mitigation_Plan.pdf).
+- [Security Risk Assessment Report](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_7/Security_Risk_Assessment_Report.pdf).
+
+
+- [Comparative Analysis of Software Development Methodologies](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_4/Comparative_Analysis_of_Software_Development_Methodologies.pdf).
+
+
+
+- [Algorithm Analysis and Implementation](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_3/Algorithm_Analysis_and_Implementation.pdf).
+- [Bubble_Sort.py](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_1/bubble_Sort.py).
+- [Case Study AI-Powered Assistants in Business Transformation](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_2/Case_Study_AI-Powered_Assistants_in_Business_Transformation.pdf).
+
+
 <br>
 <br>
 
@@ -83,6 +97,14 @@ Result 72 % (Distinction)
 <br>
 
 ### Programming
+
+
+- [Implementing and Evaluating a Simple AI Modell](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_6/Implementing_and_Evaluating_a_Simple_AI_Model.pdf).
+- [Spam Classification on UCI Spambasel](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_6/Spam_Classification_on_UCI_Spambase.py).
+
+- [Data Analytics with Python and Data Storage Reflection](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_5/Data_Analytics_with_Python_and_Data_Storage_Reflection.pdf).
+- [UCI online retail dataset analysis](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_5/UCI_online_retail_dataset_analysis.py).
+
 
 - [Part_A_Individual_Programming_Exercise_Comparing_Programming_Languages](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_12_A/Part_A_Individual_Programming_Exercise_Comparing_Programming_Languages.pdf).
 - [Part_A_Individual Programming Exercise Comparing Programming Languages - Node.js](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_12_A/chatbot.js).
