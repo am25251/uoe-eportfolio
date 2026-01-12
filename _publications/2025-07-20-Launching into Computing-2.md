@@ -54,6 +54,9 @@ Result 67 % (Merit)
 - [Developing a Resilient and Strategic IT_Framework](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_12_A/Developing_a_Resilient_and_Strategic_IT_Framework.pdf).
 - [Predict How AI Blockchain or Quantum Computing Will Shape Computing in the Next Decade](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_12_A/Predict_How_AI_Blockchain_or_Quantum_Computing_Will_Shape_Computing_in_the_Next_Decade.pdf).
 
+- [IT Governance Framework Analysis](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_10/IT_Governance_Framework_Analysis.pdf).
+- [Toyota’s_Digital_Transformation_with_IT_Governance_Frameworks](https://am25251.github.io/uoe-eportfolio/files/Launch_into_Computing_July_2025/Unit_10/Toyota’s_Digital_Transformation_with_IT_Governance_Frameworks.pdf).
+
 <br>
 <br>
 
