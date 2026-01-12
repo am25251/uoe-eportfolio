@@ -16,6 +16,10 @@ This section is used to summarize some of the key concepts I have learned in thi
 - [E-Portfolio Activity GDPR Case Studies Excessive Data Collection by An-Post](https://am25251.github.io/uoe-eportfolio/files/e-Portfolio_Activity_GDPR_Case_Studies_Excessive_Data_Collection_by_An-Post.pdf).
 - [Wiki Activity Security Frameworks](https://am25251.github.io/uoe-eportfolio/files/Wiki_Activity_Security_Frameworks.pdf).
 
+- [Seminar DR_Solutions_Design_and_Review](https://am25251.github.io/uoe-eportfolio/files/Seminar_Unit_10_DR_Solutions_Design_and_Review.pdf).
+- [Individual Project Executive Summary](https://am25251.github.io/uoe-eportfolio/files/Individual_Project_Executive_Summary_Unit_11_v14.pdf).
+
+
 
 ### Feedback
 <details>
@@ -94,11 +98,11 @@ Dr. ***** *****
 
 ### Reflective Summary
 
-- [Unit 12 End of Module Assignment E-Portfolio Submission v3](https://am25251.github.io/uoe-eportfolio/files/Unit_12_End_of_Module_Assignment_E-Portfolio_Submission_v3.pdf).
+- [End of Module Assignment E-Portfolio Submission](https://am25251.github.io/uoe-eportfolio/files/Unit_12_End_of_Module_Assignment_E-Portfolio_Submission_v3.pdf).
 
-### Code
+### Programing
 
-- [Unit 11 Monte Carlo Python Code - Individual Project Executive Summary](https://am25251.github.io/uoe-eportfolio/files/Python_code_Individual_Project_Executive_Summary_Unit_11.py).
+- [Monte Carlo Python Code - Individual Project Executive Summary](https://am25251.github.io/uoe-eportfolio/files/Python_code_Individual_Project_Executive_Summary_Unit_11.py).
 
 
 ### Feedback
