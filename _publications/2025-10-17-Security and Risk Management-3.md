@@ -42,7 +42,7 @@ This section summarises the key concepts I have learned during this semester usi
 <br>
 <br>
 
-1. **Units 1 and 2: Foundations and Assessment of Security and Risk Management**
+* **Units 1 and 2: Foundations and Assessment of Security and Risk Management**
 
 **WHAT**
 
@@ -61,7 +61,7 @@ I will critically examine the assumptions behind risk definitions and standards 
 <br>
 <br>
 
-2.	**Units 3 and 4 – Threat Modelling and Management Techniques**
+*	**Units 3 and 4 – Threat Modelling and Management Techniques**
 
 **WHAT**
 
@@ -81,7 +81,7 @@ I will use flexible, combined threat modelling approaches and clearly record ass
 <br>
 <br>
 
-3.	**Units 5 and 6 – Practical Implications of Security and Risk Standards**
+*	**Units 5 and 6 – Practical Implications of Security and Risk Standards**
 
 **WHAT**
 
@@ -99,7 +99,7 @@ I will address collaboration risks by clarifying roles early. I will escalate ch
 <br>
 <br>
 
-4.	**Units 7 and 8 – Quantitative Risk Modelling, Concepts and Implementation**
+*	**Units 7 and 8 – Quantitative Risk Modelling, Concepts and Implementation**
 
 **WHAT**
 
@@ -120,7 +120,7 @@ I will use quantitative output as decision-support tools. I will not use them as
 <br>
 <br>
 
-5.	**Units 9 and 10 – Risk, Business Continuity and Disaster Recovery**
+*	**Units 9 and 10 – Risk, Business Continuity and Disaster Recovery**
 
 **WHAT**
 
@@ -141,7 +141,7 @@ I will ensure that resilience planning aligns with organizational goals and risk
 <br>
 
 
-7.	**Units 11 and 12 – Projects, Emerging Trends, Module Integration and the Great Debate**
+*	**Units 11 and 12 – Projects, Emerging Trends, Module Integration and the Great Debate**
 
 
 **WHAT**
