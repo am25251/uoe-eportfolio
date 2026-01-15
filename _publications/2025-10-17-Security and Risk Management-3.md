@@ -105,13 +105,4 @@ Dr. ***** *****
 - [Monte Carlo Python Code - Individual Project Executive Summary](https://am25251.github.io/uoe-eportfolio/files/Python_code_Individual_Project_Executive_Summary_Unit_11.py).
 
 
-### Feedback
-<details>
-<summary>Tutor Feedback</summary>
-</details>
-
-### Result
-<details>
-<summary>Tutor Feedback</summary>
-</details>
 
