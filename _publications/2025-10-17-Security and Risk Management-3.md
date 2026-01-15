@@ -14,16 +14,26 @@ This section summarizes key concepts I have learned this semester and reflects o
 
 <br>
 
+**Content**
 
-1.	Units 1 and 2: Foundations and Assessment of Security and Risk Management
-2.	Units 3 and 4 – Threat Modelling and Management Techniques
-3.	Units 5 and 6 – Practical Implications of Security and Risk Standards
-4.	Units 7 and 8 – Quantitative Risk Modelling, Concepts and Implementation
-5.	Units 9 and 10 – Risk, Business Continuity and Disaster Recovery
-6.	Units 11 and 12 – Projects, Emerging Trends, Module Integration and the Great Debate
-7.	Conclusion
-8.	Use of Digital Tools
-9.	References
+**Units 1 and 2: Foundations and Assessment of Security and Risk Management**
+
+**Units 3 and 4 – Threat Modelling and Management Techniques**
+
+**Units 5 and 6 – Practical Implications of Security and Risk Standards**
+
+**Units 7 and 8 – Quantitative Risk Modelling, Concepts and Implementation**
+
+**Units 9 and 10 – Risk, Business Continuity and Disaster Recovery**
+
+**Units 11 and 12 – Projects, Emerging Trends, Module Integration and the Great Debate**
+
+**Conclusion**
+
+**Use of Digital Tools**
+
+**References**
+
 
 <br>
 <br>
