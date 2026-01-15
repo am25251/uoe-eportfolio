@@ -28,7 +28,7 @@ This section summarizes key concepts I have learned this semester and reflects o
 <br>
 <br>
 
-1. Units 1 and 2: Foundations and Assessment of Security and Risk Management
+1. **Units 1 and 2: Foundations and Assessment of Security and Risk Management**
 
 **WHAT**
 Units 1 and 2 introduced the foundation of Security and Risk Management (SRM), covering key definitions of risk, uncertainty, the CIA triad, and the structure of formal risk management processes. Standards frame risk to qualitative and quantitative methods and stakeholder involvement are applied in practice.
@@ -41,7 +41,7 @@ During this time, I have learned that risk is not purely technical rather than s
 **NOW WHAT**
 I will critically examine the assumptions behind risk definitions and standards to align with organizational values, ethics and the social context. In practice, I will employ qualitative and quantitative techniques, engage stakeholders to reduce gaps, and improve communication for ethical and accountable risk decisions.
 
-2.	Units 3 and 4 – Threat Modelling and Management Techniques
+2.	**Units 3 and 4 – Threat Modelling and Management Techniques**
 
 **WHAT**
 These units explored threat modelling methods such as STRIDE, DREAD, Attack Trees, OCTAVE, and PASTA, along with tools like OWASP and MITRE Att&Ck. 
@@ -57,7 +57,7 @@ I will use flexible, combined threat modelling approaches and clearly record ass
 
 
 
-3.	Units 5 and 6 – Practical Implications of Security and Risk Standards
+3.	**Units 5 and 6 – Practical Implications of Security and Risk Standards**
 
 **WHAT**
 Units 5 and 6 examined regulatory and industry standards such as GDPR, and PCI DSS across sectors. Unit 6 required collaborative group work applying standards such as ISO 31000, ISO 27005 and more, into practical scenarios.
@@ -69,7 +69,7 @@ Unit 6 marked a turning point. I recognized early in the project that leadership
 **NOW WHAT**
 I will address collaboration risks by clarifying roles early. I will escalate challenges early. I will embed team responsibilities and accountability mechanisms into group governance structures and document such accordingly.
 
-4.	Units 7 and 8 – Quantitative Risk Modelling, Concepts and Implementation
+4.	**Units 7 and 8 – Quantitative Risk Modelling, Concepts and Implementation**
 
 **WHAT**
 These units introduced quantitative risk modeling techniques. These techniques include Monte Carlo simulation, Bayesian analysis, and multi-criteria decision-making. In addition, I learned that CVSS scoring is inconsistent, subjective, and often misunderstood as a risk measure. 
@@ -82,7 +82,7 @@ Overconfidence in quantitative models can result in decision-makers overlooking 
 **NOW WHAT**
 I will use quantitative output as decision-support tools. I will not use them as definitive answers. I will triangulate them with qualitative insight. Furthermore, organizations should treat vulnerability results as preliminary. They should integrate different hybrid frameworks and contextual data; this will help improve decisions.
 
-5.	Units 9 and 10 – Risk, Business Continuity and Disaster Recovery
+5.	**Units 9 and 10 – Risk, Business Continuity and Disaster Recovery**
 
 **WHAT**
 These units focus on business continuity and disaster recovery, addressing RTO, RPO, and cloud-based resilience, threat and risk handling strategies.
@@ -94,7 +94,7 @@ Recognizing that resilience planning reflects an organization's mission and risk
 **NOW WHAT**
 I will ensure that resilience planning aligns with organizational goals and risk governance by implementing continuous testing and scenario analysis tailored to the  specific business use cases.
 
-7.	Units 11 and 12 – Projects, Emerging Trends, Module Integration and the Great Debate
+7.	**Units 11 and 12 – Projects, Emerging Trends, Module Integration and the Great Debate**
 
 **WHAT** 
 Units 11 and 12 consolidated the module through an executive-level project interconnected to unit 6 scenario focusing on digitalization, automation, and global supply chains. In addition to a reflection assignment.
