@@ -7,7 +7,7 @@ excerpt: 'Risk Management - Governance, laws, industry standards and Regulations
 
 <br>
 
-### This section summarises the key concepts I have learned during this semester using Gibbs’s 3W reflection model:
+### This section summarises the key concepts I have learned during this semester. reflected using Gibbs’s 3W model:
 
 **What (happened)** : I describe the experience
 
@@ -47,7 +47,7 @@ excerpt: 'Risk Management - Governance, laws, industry standards and Regulations
 **WHAT**
 
 Units 1 and 2 introduced the foundation of Security and Risk Management (SRM), covering key definitions of risk, uncertainty, the CIA triad, and the structure of formal risk management processes. Standards frame risk to qualitative and quantitative methods and stakeholder involvement are applied in practice.
-(Stoneburner et al., 2002; Aven and Thekdi, 2024; Renn et al., 2021).
+
 
 **SO, WHAT**
 
