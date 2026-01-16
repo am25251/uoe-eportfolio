@@ -52,7 +52,7 @@ Units 1 and 2 introduced the foundation of Security and Risk Management (SRM), c
 **SO, WHAT**
 
 During this time, I have learned that risk is not purely technical rather than shaped by context, values, and judgment. Initially, I viewed standards and numerical outputs as completely dependable, this was challenged through reflection and peer discussion. Strict compliance can sometimes limit ethical judgement; quantitative methods may obscure uncertainty and lead to social impacts if voices are excluded. Additionally, qualitative approaches can introduce bias. Linking theory to human rights investigations showed how tools designed to protect privacy can also create risks related to bias, cultural misunderstanding and fairness, if applied, without oversight.
-(Hancock, 2024; Aven and Thekdi, 2024); Abraha, 2025).
+(Hancock, 2024).
 
 **NOW WHAT**
 
@@ -71,7 +71,7 @@ These units explored threat modelling methods such as STRIDE, DREAD, Attack Tree
 **SO, WHAT**
 
 Applying these models showed that no single threat modelling method fits all situations. I initially searched for the ‘best’ model, though, peer discussions revealed the value of using different approaches. Considering more models, reinforced the importance of assessing threat capabilities and vulnerability management. Tools may create false confidence, results without human judgement that reinforce the idea that digital systems are both opportunities and risks.
-(Renn et al., 2021).
+
 
 **NOW WHAT**
 
@@ -86,7 +86,6 @@ I will use flexible, combined threat modelling approaches and clearly record ass
 **WHAT**
 
 Units 5 and 6 examined regulatory and industry standards such as GDPR, and PCI DSS across sectors. Unit 6 required collaborative group work applying standards such as ISO 31000, ISO 27005 and more, into practical scenarios.
-(Barafort et al., 2018; Sørensen, 2018)
 
 **SO, WHAT**
 
@@ -104,12 +103,12 @@ I will address collaboration risks by clarifying roles early. I will escalate ch
 **WHAT**
 
 These units introduced quantitative risk modeling techniques. These techniques include Monte Carlo simulation, Bayesian analysis, and multi-criteria decision-making. In addition, I learned that CVSS scoring is inconsistent, subjective, and often misunderstood as a risk measure. 
-(Metropolis, 1987; Asadabadi & Saberi, 2019).
+(Metropolis, 1987).
 
 **SO, WHAT**
 
 Overconfidence in quantitative models can result in decision-makers overlooking key uncertainties or failing to question assumptions. Sensitivity to input assumptions emerged as a critical limitation. This reinforces the critique of misplaced numerical certainty. Qualitative models, for instance vulnerability prioritization, could be undermined. This could limit decision reliability even when staff members are skilled.
-(Hubbard, 2020). 
+(Wunder, J. et al. 2024).
 
 **NOW WHAT**
 
@@ -125,7 +124,7 @@ I will use quantitative output as decision-support tools. I will not use them as
 **WHAT**
 
 These units focus on business continuity and disaster recovery, addressing RTO, RPO, and cloud-based resilience, threat and risk handling strategies.
-(Andrade et al., 2017; Kumar, 2024).
+(Andrade et al).
 
 **SO, WHAT**
 
@@ -147,12 +146,12 @@ I will ensure that resilience planning aligns with organizational goals and risk
 **WHAT**
 
 Units 11 and 12 consolidated the module through an executive-level project interconnected to unit 6 scenario focusing on digitalization, automation, and global supply chains. In addition to a reflection assignment.
-(Pineiro-Chousa et al., 2017).
+
 
 **SO, WHAT**
 
 The quantitative evaluation showed that uncertainty is not merely a flaw but an inherent part of the system, as demonstrated by recent findings in supply chain analysis, this demonstrated the necessity of governance, oversight, and human judgment. The project demonstrated that various SRM techniques are more effective when employed as a unified decision-making framework alongside research, strategy, ethics, and risk awareness.
-(Pineiro-Chousa et al., 2017).
+
 
 **NOW WHAT**
 
@@ -174,21 +173,13 @@ This semester, my knowledge of security has grown, particularly through Units 6,
 
 **References**
 
-* Aven, T. and Thekdi, S. (2024) Risk Science. Routledge.
-* Alhazmi, O.H. and Malaiya, Y.K., 2013, January. Evaluating disaster recovery plans using the cloud. In 2013 proceedings annual reliability and maintainability symposium (rams) (pp. 1-6). IEEE.
-* Andrade, E., Nogueira, B., Matos, R., Callou, G. and Maciel, P., (2017). Availability modeling and analysis of a disaster-recovery-as-a-service solution. Computing, 99(10), pp.929-954.
-* Asadabadi, M.R., Chang, E. and Saberi, M., (2019). Are MCDM methods useful? A critical review of analytic hierarchy process (AHP) and analytic network process (ANP). Cogent Engineering, 6(1), p.1623153.
-* Barafort, B., Mesquida, A.L. and Mas, A., 2018. Integrated risk management process assessment model for IT organizations based on ISO 31000 in an ISO multi-standards context. Computer Standards & Interfaces, 60, pp.57-66.
 * Gibbs G (1988). Learning by Doing: A guide to teaching and learning methods. Further Education Unit. Oxford Polytechnic: Oxford.
 * Hancock, J., Hui, R., Singh, J. and Mazumder, A., (2024), June. Trouble at Sea: Data and digital technology challenges for maritime human rights concerns. In Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency (pp. 988-1001).
-* Hubbard, Douglas W. The Failure of Risk Management: Why It is Broken and How to Fix It. Second edition. Newark: Wiley, (2020). Web. 
-* Kumar, A. (2024) Cloud Vendor Lock-In: Identify, Strategies and Mitigate.
+* Wunder, J. et al. (2024) Shedding Light on CVSS Scoring Inconsistencies: A User-Centric Study on Evaluating Widespread Security Vulnerabilities. arXiv.org.
 * Metropolis, N. (1987) The Beginning of the Monte Carlo Method’.
-* Pineiro-Chousa, Juan et al. Managing Reputational Risk through Environmental Management and Reporting: An Options Theory Approach. Sustainability 9.3 (2017): 376. Web.
-* Rolfe, G., Freshwater, D. and Jasper, M., 2001. Critical reflection for nursing and the helping professions: A user's guide.
 * Shostack, A. et al. (2020) Threat Modeling Manifesto.
 * Shevchenko, N., et al. (2018) Threat modeling: a summary of available methods. Carnegie Mellon University Software Engineering Institute Pittsburgh United States.
-* Stoneburner, G., Goguen, A. and Feringa, A. (2002) SP 800-30: Risk Management Guide for Information Technology Systems.
+
 
 **Use of Digital Tools**
 
