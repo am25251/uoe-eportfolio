@@ -7,36 +7,36 @@ excerpt: 'Risk Management - Governance, laws, industry standards and Regulations
 
 <br>
 
-This section summarises the key concepts I have learned during this semester using Gibbs’s 3W reflection model:
+### This section summarises the key concepts I have learned during this semester using Gibbs’s 3W reflection model:
 
-**What happened** : I describe the experience
+**What (happened)** : I describe the experience
 
-**So what** : I reflect on its meaning and learning
+**So what** : I reflect on meaning and learning
 
 **Now what** : I decide on future actions and improvements
 
 <br>
 <br>
 
-**Content**
+### Content
 
-**Units 1 and 2: Foundations and Assessment of Security and Risk Management**
+* **Units 1 and 2: Foundations and Assessment of Security and Risk Management**
 
-**Units 3 and 4 – Threat Modelling and Management Techniques**
+* **Units 3 and 4 – Threat Modelling and Management Techniques**
 
-**Units 5 and 6 – Practical Implications of Security and Risk Standards**
+* **Units 5 and 6 – Practical Implications of Security and Risk Standards**
 
-**Units 7 and 8 – Quantitative Risk Modelling, Concepts and Implementation**
+* **Units 7 and 8 – Quantitative Risk Modelling, Concepts and Implementation**
 
-**Units 9 and 10 – Risk, Business Continuity and Disaster Recovery**
+* **Units 9 and 10 – Risk, Business Continuity and Disaster Recovery**
 
-**Units 11 and 12 – Projects, Emerging Trends, Module Integration and the Great Debate**
+* **Units 11 and 12 – Projects, Emerging Trends, Module Integration and the Great Debate**
 
-**Conclusion**
+* **Conclusion**
 
-**Use of Digital Tools**
+* **Use of Digital Tools**
 
-**References**
+* **References**
 
 
 <br>
