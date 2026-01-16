@@ -20,7 +20,7 @@ excerpt: 'Risk Management - Governance, laws, industry standards and Regulations
 
 ### Content
 
-* **Units 1 and 2: Foundations and Assessment of Security and Risk Management**
+* **Units 1 and 2 – Foundations and Assessment of Security and Risk Management**
 
 * **Units 3 and 4 – Threat Modelling and Management Techniques**
 
