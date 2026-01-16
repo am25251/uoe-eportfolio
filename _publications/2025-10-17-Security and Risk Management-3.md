@@ -2,7 +2,7 @@
 title: "Security and Risk Management"
 collection: publications
 category: MSc. CyberSecurity
-excerpt: 'Risk Management - Governance, laws, industry standards and Regulations, Threat modeling, and more.'
+excerpt: 'Risk Management - Governance, laws, industry standards and Regulations, Threat modeling, Quantitative Risk Modelling, Business Continuity, Disaster Recovery'
 ---
 
 <br>
