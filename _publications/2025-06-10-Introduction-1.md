@@ -25,9 +25,11 @@ The increasing sophistication of cybercrime necessitates continuous learning and
 The postgraduate degree will significantly enhance my ability to lead and contribute to the fight against cybercrime, making it a valuable investment in my professional development.
 
 ### Action Plan
-Upon completion, I plan to apply the knowledge gained in leadership roles within the cyber security industry, contributing to the development of innovative security solutions (University ******, 2025).
+Upon completion, I plan to apply the knowledge gained in leadership roles within the cyber security industry, contributing to the development of innovative security solutions (University ******, 2025; Gibbs 1988).
 
 ### References
+
+•	Gibbs G. (1988). Learning by Doing: A guide to teaching and learning methods. Further Education Unit. Oxford Polytechnic: Oxford.
 
 •	Griffith, D.S. (1990) The computer fraud and abuse act of 1986: a measured response to a growing problem. Dodd S. Griffith. Vand. L. Rev., 43, p.453.
 
