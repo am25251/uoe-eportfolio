@@ -28,8 +28,6 @@ The postgraduate degree will significantly enhance my ability to lead and contri
 Upon completion, I plan to apply the knowledge gained in leadership roles within the cyber security industry, contributing to the development of innovative security solutions (University ******, 2025).
 
 ### References
-•	Gibbs G (1988). Learning by Doing: A guide to teaching and learning methods. Further Education Unit. Oxford Polytechnic: Oxford.
-
 
 •	Griffith, D.S. (1990) The computer fraud and abuse act of 1986: a measured response to a growing problem. Dodd S. Griffith. Vand. L. Rev., 43, p.453.
 
