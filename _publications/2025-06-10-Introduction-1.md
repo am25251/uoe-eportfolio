@@ -39,7 +39,7 @@ Upon completion, I plan to apply the knowledge gained in leadership roles within
 
 ### Essays
 
-- [Introduction to IT and Cybersecurity](https://am25251.github.io/uoe-portfolio/files/Induction.pdf).
+- [Introduction to IT and Cybersecurity](https://am25251.github.io/uoe-eportfolio/files/Induction.pdf).
 
 
 <br>
