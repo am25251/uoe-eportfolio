@@ -30,6 +30,12 @@ The unit had broadened my understanding of computing role in driving digital tra
 ## Action Plan
 I plan to further explore areas like ethical AI, sustainable software engineering, and enterprise IT governance. I aim to focus on how emerging technologies can be used to foster responsible and inclusive digital transformation, contributing to both business success and societal well-being.
 
+(Gibbs 1988)
+
+### References
+
+•	Gibbs G. (1988). Learning by Doing: A guide to teaching and learning methods. Further Education Unit. Oxford Polytechnic: Oxford.
+
 
 <br>
 <br>
