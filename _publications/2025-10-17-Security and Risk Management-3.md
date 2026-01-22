@@ -164,7 +164,7 @@ I will continue leveraging research to develop evidence-based methods with due d
 
 **Conclusion**
 
-This semester, my knowledge of security has grown, particularly through Units 6, 11, and 12, which strengthened my understanding of leadership, collaboration, accountability, project management, governance and team dynamics. I developed a critical understanding of SRM and how to better adapt to; uncertainty, context, and human factors, integrating multiple methods, navigating leadership challenges enhancing communication skills and the ability to resolve complex challenges. I gained valuable knowledge throughout this seminar. The material, combined with the tutor's guidance, fostered a positive, clear, and encouraging environment. This has been the most enriching semester for me, and I was consistently motivated to engage, the content was very in-depth and clear, what enhanced my learning experience. I hope that this high standard will be maintained also in future semesters.
+This semester, my knowledge of security has grown, particularly through Units 6, 11, and 12, which strengthened my understanding of leadership, collaboration, accountability, project management, governance and team dynamics. I developed a critical understanding of SRM and how to better adapt to; uncertainty, context, and human factors, integrating multiple methods, navigating leadership challenges enhancing communication skills and the ability to resolve complex challenges. I gained valuable knowledge throughout this seminar. The material, combined with the tutor's guidance, fostered a positive, clear, and encouraging environment. I felt motivated to engage, the content was consistently in-depth, clear, and delivered and high standard that I hope to experience again in future semesters. I will prioritize careful planning while remaining highly adaptable, enabling me to respond responsibly and effectively in critical situations.
 
 
 <br>
@@ -233,7 +233,7 @@ Kind regards,
 
 Your tutor 
 
-Dr. **** ***** 
+Dr. Maria Alvanou 
 </details>
 
 ### Result
@@ -269,7 +269,7 @@ Kind regards,
 
 Your tutor 
 
-Dr. ***** *****
+Dr. Maria Alvanou
 </details>
 
 
