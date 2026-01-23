@@ -4,10 +4,11 @@ collection: publications
 category: MSc. CyberSecurity
 excerpt: 'Risk Management - Governance, laws, industry standards and Regulations, Threat modeling, Quantitative Risk Modelling, Business Continuity, Disaster Recovery'
 ---
+# Security and Risk Management - Summary
 
 <br>
 
-### This section summarises the key concepts I have learned during this semester. reflected using Gibbs’s 3W model:
+### This section summarises the key concepts I have learned during this semester. reflected using Gibbs’s 3W model
 
 <br>
 
