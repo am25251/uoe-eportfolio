@@ -183,6 +183,8 @@ This semester, my knowledge of security has grown, particularly through Units 6,
 * Shostack, A. et al. (2020) Threat Modeling Manifesto.
 * Shevchenko, N., et al. (2018) Threat modeling: a summary of available methods. Carnegie Mellon University Software Engineering Institute Pittsburgh United States.
 
+<br>
+<br>
 
 **Use of Digital Tools**
 
