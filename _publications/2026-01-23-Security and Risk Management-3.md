@@ -126,7 +126,6 @@ I will ensure that resilience planning aligns with organizational goals and risk
 
 # Units 11 and 12 – Projects, Emerging Trends, Module Integration and the Great Debate
 
-
 ### WHAT
 
 Units 11 and 12 consolidated the module through an executive-level project interconnected to unit 6 scenario focusing on digitalization, automation, and global supply chains. In addition to a reflection assignment.
