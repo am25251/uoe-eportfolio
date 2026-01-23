@@ -9,6 +9,8 @@ excerpt: 'Risk Management - Governance, laws, industry standards and Regulations
 
 ### This section summarises the key concepts I have learned during this semester. reflected using Gibbs’s 3W model:
 
+<br>
+
 **What (happened)** : I describe the experience
 
 **So what** : I reflect on meaning and learning
