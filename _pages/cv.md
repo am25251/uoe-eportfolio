@@ -25,7 +25,7 @@ University | 2025
 * MSc. Cyber Security – University of 
 Essex Online | 2025–2027 (Ongoing)
 
-Certification
+Certification / Study
 ======
 
 * CISSP®
@@ -39,7 +39,7 @@ Certification
 Work experience
 ======
 
-### Confidential – Advisor of the Security and Privacy board
+### Confidential
 
 05/2025 – Current
 
