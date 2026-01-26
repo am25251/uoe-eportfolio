@@ -62,8 +62,7 @@ Key achievements
 Led global security initiatives across IT and manufacturing, raising overall 
 security maturity during a multi-year transformation program.
 
-Coordinated cross-functional response to a major cyberattack, helping restore 
-€6M in production through timely, structured decision-making.
+Coordinated cross-functional response to a major cyberattack, helping restore production through timely, structured decision-making.
 
 Strengthened Third-Party Risk Management by creating transparent governance 
 and improving collaboration with global suppliers.
@@ -72,7 +71,7 @@ Ensured security and compliance alignment with ISO 27001, GDPR, PCI-DSS, IEC
 62443, and related standards, maintaining consistent audit readiness.
 
 Advised executives and regional management on cyber risks, architecture 
-priorities, and investment planning, supporting informed decisions and longterm resilience.
+priorities, and investment planning, supporting informed decisions and long-term resilience.
 
 ### umlaut - Principal Cybersecurity Consultant
 
