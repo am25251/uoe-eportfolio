@@ -18,12 +18,12 @@ This section is used to summarize some of the key concepts I have learned in the
 <br>
 
 ## Content
-* **Units 1 ** – History of Network Security, Vulnerabilities and Approaches
-* **Units 2 ** – Advanced Persistent Threats: Applying the Cyber Kill Chain Model to a Case Study
-* **Units 3 ** – Vulnerability Assessments
-* **Units 4 ** – Breach Analysis and Mitigation
-* **Units 5 ** – System Logging, Forensic Analysis, and Technological Futures – From Internet Evolution to Generative AI
-* **Units 6 ** – Secure Network Management
+* **Unit 1** – History of Network Security, Vulnerabilities and Approaches
+* **Unit 2** – Advanced Persistent Threats: Applying the Cyber Kill Chain Model to a Case Study
+* **Unit 3** – Vulnerability Assessments
+* **Unit 4** – Breach Analysis and Mitigation
+* **Unit 5** – System Logging, Forensic Analysis, and Technological Futures – From Internet Evolution to Generative AI
+* **Unit 6** – Secure Network Management
 * **Conclusion**
 * **Use of Digital Tools**
 * **References**
@@ -32,7 +32,7 @@ This section is used to summarize some of the key concepts I have learned in the
 <br>
 <br>
 
-## Units 1 and 2: Foundations and Assessment of Security and Risk Management
+## Unit 1: History of Network Security, Vulnerabilities and Approaches
 
 ### WHAT
 
