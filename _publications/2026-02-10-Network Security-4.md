@@ -9,7 +9,7 @@ excerpt: 'Network Security, computer networks, network analysis, threat assessme
 This section is used to summarize some of the key concepts I have learned in the programme
 <br>
 
-## This section summarises the key concepts I have learned during this semester. reflected using Gibbs’s 3W model
+## This section summarises the key concepts I have learned during this semester. reflected using Rolfe’s 3W's model
 * **What (happened)**: I describe the experience
 * **So what**: I reflect on meaning and learning
 * **Now what**: I decide on future actions and improvements
