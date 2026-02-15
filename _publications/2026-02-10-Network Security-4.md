@@ -35,37 +35,39 @@ This section is used to summarize some of the key concepts I have learned in the
 [Text]
 
 
-<br>
-<br>
-
-#### Essays
-
-[Text]
-
-
-#### Reports
-
-
-[Text]
-
-
-#### Posts
-
-- [Initial Post - text](https://am25251.github.io/e-portfolio/files/text.pdf).
-
-
-
-<br>
-<br>
-
-Feedback (tutor)
-
+## Result
 <details>
-text text text
+<summary>Tutor Feedback - TEXT Report</summary>
+
+  TEXT
+
+<br>
+<br>
+
+Grade: 83
+
+<br>
+<br>
+
+TEXT
 
 
 </details>
-  
-#### Result XX % (text)
+
+## Nessus Vulnerability Reports
+
+- [Unit 1 Initial Post - text](https://am25251.github.io/uoe-eportfolio/files/text.pdf).
+
+
+## Posts
+
+- [Unit 1 Initial Post - text](https://am25251.github.io/uoe-eportfolio/files/text.pdf).
+
+
+
+## Reflective Summary
+
+- [Unit 1 Initial Post - text](https://am25251.github.io/uoe-eportfolio/files/text.pdf).
+
 
 
