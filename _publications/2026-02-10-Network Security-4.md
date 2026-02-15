@@ -18,7 +18,7 @@ This section is used to summarize some of the key concepts I have learned in the
 <br>
 <br>
 
-Grade: 83
+Grade: 
 
 <br>
 <br>
