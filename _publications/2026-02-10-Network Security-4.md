@@ -7,6 +7,48 @@ excerpt: 'Network Security, computer networks, network analysis, threat assessme
 
 
 This section is used to summarize some of the key concepts I have learned in the programme
+<br>
+
+## This section summarises the key concepts I have learned during this semester. reflected using Gibbs’s 3W model
+* **What (happened)**: I describe the experience
+* **So what**: I reflect on meaning and learning
+* **Now what**: I decide on future actions and improvements
+
+<br>
+<br>
+
+## Content
+* **Units 1 ** – History of Network Security, Vulnerabilities and Approaches
+* **Units 2 ** – Advanced Persistent Threats: Applying the Cyber Kill Chain Model to a Case Study
+* **Units 3 ** – Vulnerability Assessments
+* **Units 4 ** – Breach Analysis and Mitigation
+* **Units 5 ** – System Logging, Forensic Analysis, and Technological Futures – From Internet Evolution to Generative AI
+* **Units 6 ** – Secure Network Management
+* **Conclusion**
+* **Use of Digital Tools**
+* **References**
+
+
+<br>
+<br>
+
+## Units 1 and 2: Foundations and Assessment of Security and Risk Management
+
+### WHAT
+
+text
+
+
+### SO, WHAT
+
+text
+
+### NOW WHAT
+
+Text
+
+<br>
+<br>
 
 
 ## Result
