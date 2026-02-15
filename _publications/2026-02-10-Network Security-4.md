@@ -60,7 +60,10 @@ TEXT
 
 ## Posts
 
-- [Unit 1 Initial Post - text](https://am25251.github.io/uoe-eportfolio/files/text.pdf).
+- [Unit 1 - Initial_Post_Collaborative_Security_Implications_of_the_Digital_Economy](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_1/Initial_Post_Collaborative_Security_Implications_of_the_Digital_Economy_V1.pdf).
+- [Unit 1 - Peer_Response 1_Collaborative_Security_Implications_of_the_Digital_Economy](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_1/Peer_Response1_Collaborative_Security_Implications_of_the_Digital_Economy.pdf).
+- [Unit 1 - Peer_Response 2_Collaborative_Security_Implications_of_the_Digital_Economy](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_1/Peer_Response2_Collaborative_Security_Implications_of_the_Digital_Economy.pdf).
+
 
 
 ## Nessus Vulnerability Reports
