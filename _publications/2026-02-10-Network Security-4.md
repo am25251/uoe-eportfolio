@@ -8,32 +8,6 @@ excerpt: 'Network Security, computer networks, network analysis, threat assessme
 
 This section is used to summarize some of the key concepts I have learned in the programme
 
-[Text]
-
-## Learning Outcome
-
-[Text]
-
-## Practical Application
-
-[Text]
-
-## Critical Reflection
-
-[Text]
-
-## Learning Process
-
-[Text]
-
-## Broader Context
-
-[Text]
-
-## Future Direction
-
-[Text]
-
 
 ## Result
 <details>
@@ -57,6 +31,8 @@ TEXT
 ## Reports
 
 - [Unit 1 - Cyberattack Case File Origins Methods and Mitigation](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_1/Cyberattack_Case_File_Origins_Methods_and_Mitigation_v1.pdf).
+- [Unit 2 - Vulnerability_Analysis_Literature_Review_Activity](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_1/Vulnerability_Analysis_Literature_Review_Activity_unit_2.pdf).
+
 
 ## Posts
 
