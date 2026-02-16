@@ -20,7 +20,7 @@ Today’s digital landscape is being revolutionized by many technologies that br
 
 Throughout my ongoing studies, I have, and will gain, more comprehensive knowledge in areas such as risk management, network security, machine learning algorithms, artificial intelligence, and cybersecurity. This e-portfolio displays my academic progress, projects, and research endeavors, offering insight into my development as a cybersecurity expert. I am engaged in continuous learning and evolving through firsthand projects, industry collaborations, and further exploration of the intersection between these two exciting fields.
 
-### Through my part-time studies at the University, I am enriching and expanding my knowledge in the following fields (Modules):
+### Through my part-time studies at the University, I am enriching and expanding my knowledge in the following fields using the following Modules:
 * **Intro into Cybersecurity** - Cybersecurty, digital tech, programming and networking fundemenatls.
 * **Launching into Computing** - fundamentals of computing - Python, OS, architecture, networking and data analytics.
 * **Security and Risk Management** - Governance, laws, industry standards and Regulations, Threat modeling, Quantitative Risk Modelling, Business Continuity, Disaster Recovery
