@@ -37,9 +37,9 @@ This section is used to summarize some of the key concepts I have learned in the
 
 ## Result
 <details>
-<summary>Tutor Feedback - Dear Participant </summary>
+<summary>Tutor Feedback</summary>
 
-Thank you for your mid-module summative submission. Your Turnitin similarity score is 8% which shows good engagement with summarising, paraphrasing and referencing. Well done!
+Dear Participant, Thank you for your mid-module summative submission. Your Turnitin similarity score is 8% which shows good engagement with summarising, paraphrasing and referencing. Well done!
 
 Please find below feedback comments on your submission.
 
