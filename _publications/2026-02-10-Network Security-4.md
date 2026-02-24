@@ -74,7 +74,6 @@ TEXT
 
 - [Unit 1 - Cyberattack Case File Origins Methods and Mitigation](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_1/Cyberattack_Case_File_Origins_Methods_and_Mitigation_v1.pdf).
 - [Unit 2 - Vulnerability_Analysis_Literature_Review_Activity](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_2/Vulnerability_Analysis_Literature_Review_Activity_unit_2.pdf).
-- [Unit 3 - Cisco WAP561 Wireless Access Point](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_3/Cisco_WAP561_Wireless_Access_Point_Redacted.pdf).
 
 
 
@@ -89,6 +88,8 @@ TEXT
 ## Nessus Vulnerability Reports
 
 - [Unit 3 - Ethical_non_intrusive_scan_of_Zero_Bank](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_3/Ethical_non_intrusive_scan_of_Zero_Bank_wl4sr1.pdf).
+- [Unit 3 - Cisco WAP561 Wireless Access Point](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_3/Cisco_WAP561_Wireless_Access_Point_Redacted.pdf).
+
 
 
 ## Reflective Summary
