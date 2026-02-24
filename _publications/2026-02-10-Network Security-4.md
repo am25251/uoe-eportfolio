@@ -37,20 +37,47 @@ This section is used to summarize some of the key concepts I have learned in the
 
 ## Result
 <details>
-<summary>Tutor Feedback - TEXT Report</summary>
+<summary>Tutor Feedback - Dear Participant </summary>
 
-  TEXT
+Thank you for your mid-module summative submission. Your Turnitin similarity score is 8% which shows good engagement with summarising, paraphrasing and referencing. Well done!
 
-<br>
-<br>
+Please find below feedback comments on your submission.
 
-Grade: 
+Knowledge and Understanding 
 
-<br>
-<br>
+Grade: 68%
 
-TEXT
+You have shown a good baseline assessment of the Zero Bank application by correctly identifying its architectural stack as Java-based on an Apache Tomcat server. Your approach to the threat landscape is excellent, as you have moved beyond generic threats to identify specific version-related risks in OpenSSL, JQuery, and HTTPD. You have clearly highlighted the regulatory context of the Fintech industry, specifically mentioning GDPR and DORA, which demonstrates an understanding of the compliance requirements for financial applications. Well done! 
 
+However, your discussion of potential security challenges remains somewhat reliant on tool output; while you mention "Broken Access Control" as a generic risk, you have not provided a specific manual walkthrough that is unique to the Zero Bank's banking functions (e.g., specific transaction vulnerabilities).
+
+Application of Knowledge 
+
+Grade: 66%
+
+In your implementation of the assessment, you have utilised Nessus Essentials and Nikto effectively. You have also justified the use of Nessus for "comprehensive vulnerability detection" and supplemented it with manual inspection to reduce false positives. Your report includes a methodology based on NIST SP 800-115, which is an excellent choice. However, your discussion on the operational impact of these tools is brief.  While you mention "potential performance overhead," you have missed a detailed analysis of how an unauthenticated Nessus scan might specifically impact a production Fintech environment's availability or trigger automated defense mechanisms.
+
+Criticality 
+
+Grade: 64%
+
+Your list of assumptions and limitations is present, specifically noting that the architecture is assumed due to the system being "closed" and acknowledging that Nessus can generate false positives. Your timeline is structured and realistic. You have provided a Criticality table (Table 1) that maps findings to CVSS scores, which adds depth to your analysis. However, you could have included a critical appraisal of the limitations of the automated tools themselves in the context of Java application logic. 
+
+Presentation and Structure
+
+Grade:74%
+
+Your report is professionally structured, utilising tables and bullet points. You have included figures 1-9 that provide evidence of your activities. Your use of citations is also correct. One minor area for improvement in Figure 9, labeled as "Simplified architecture," is a helpful addition but could be more integrated into the text to explain how the vulnerabilities found in Section 5 specifically compromise that architecture. Your word count is also well within the limits. Well done!
+
+ 
+
+Overall Weight = 68%
+Overall Contribution to Final Grade: 27.2%
+
+
+Kayode Popoola, Ph.D.
+
+18/02/26
 
 </details>
 
