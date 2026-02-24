@@ -32,24 +32,8 @@ This section is used to summarize some of the key concepts I have learned in the
 <br>
 <br>
 
-## Unit 1: History of Network Security, Vulnerabilities and Approaches
-
-### WHAT
-
-text
-
-
-### SO, WHAT
-
-text
-
-### NOW WHAT
-
-Text
-
-<br>
-<br>
-
+## Unit 3: Mid Module Assignment Security Risk Identification and Technical Design Analysis
+- [Unit 3 - Mid Module Assignment Security Risk Identification and Technical Design Analysis](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_3/Mid_Module_Assignment_Security_Risk_Identification_and_Technical_Design_Analysis_Unit_3_v1.pdf).
 
 ## Result
 <details>
@@ -73,10 +57,11 @@ TEXT
 ## Reports
 
 - [Unit 1 - Cyberattack Case File Origins Methods and Mitigation](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_1/Cyberattack_Case_File_Origins_Methods_and_Mitigation_v1.pdf).
+
 - [Unit 2 - Vulnerability_Analysis_Literature_Review_Activity](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_2/Vulnerability_Analysis_Literature_Review_Activity_unit_2.pdf).
-- [Unit 3 - Mid Module Assignment Security Risk Identification and Technical Design Analysis](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_3/Mid_Module_Assignment_Security_Risk_Identification_and_Technical_Design_Analysis_Unit_3_v1.pdf).
-- [Unit 3 - Nessus Vulnerability Scan](https://am25251.github.io/files/03-Network_Security_January_2026/Unit_3/Nessus_Vulnerability_Scan_Unit_3.pdf).
-- [Unit 3 - Scanning Activities](https://am25251.github.io/files/03-Network_Security_January_2026/Unit_3/Scanning_Activities_Unit_3.pdf).
+
+- [Unit 3 - Nessus Vulnerability Scan](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_3/Nessus_Vulnerability_Scan_Unit_3.pdf).
+- [Unit 3 - Scanning Activities](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_3/Scanning_Activities_Unit_3.pdf).
 
 
 
