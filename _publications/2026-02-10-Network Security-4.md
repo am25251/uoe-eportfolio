@@ -90,6 +90,10 @@ Kayode Popoola, Ph.D.
 
 - [Unit 3 - Nessus Vulnerability Scan](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_3/Nessus_Vulnerability_Scan_Unit_3.pdf).
 - [Unit 3 - Scanning Activities](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_3/Scanning_Activities_Unit_3.pdf).
+- [Unit 4 - Scanning and Collaborative Wiki Activity](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_3/Scanning_and_Collaborative_Wiki_Activity.pdf).
+- [Unit 5 - Case_Study_Reviewing_an_Assessment_Reporting_Template](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_3/Case_Study_Reviewing_an_Assessment_Reporting_Template.pdf).
+- [Unit 6 - End_of_Module_Assessment_Executive_Summary_Unit_6_Part_A](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_3/End_of_Module_Assessment_Executive_Summary_Unit_6_Part_A_V5.pdf).
+
 
 
 
@@ -98,6 +102,11 @@ Kayode Popoola, Ph.D.
 - [Unit 1 - Initial_Post_Collaborative_Security_Implications_of_the_Digital_Economy](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_1/Initial_Post_Collaborative_Security_Implications_of_the_Digital_Economy_V1.pdf).
 - [Unit 1 - Peer_Response 1_Collaborative_Security_Implications_of_the_Digital_Economy](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_1/Peer_Response1_Collaborative_Security_Implications_of_the_Digital_Economy.pdf).
 - [Unit 1 - Peer_Response 2_Collaborative_Security_Implications_of_the_Digital_Economy](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_1/Peer_Response2_Collaborative_Security_Implications_of_the_Digital_Economy.pdf).
+- [Unit 3 - Summary_Post_Collaborative_Security_Implications_of_the_Digital_Economy](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_1/Summary_Post_Collaborative_Security_Implications_of_the_Digital_Economy.pdf).
+
+- [Unit 1 - Initial Post Collaborative The Pros and cons of logging The impact of log4j](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_1/Initial_Post_Collaborative_The_Pros_and_cons_of_logging_The_impact_of_log4j.pdf).
+- [Unit 1 - Peer_Response1 Collaborative The Pros and cons of logging The impact of log4j](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_1/Peer_Response1_Collaborative_The_Pros_and_cons_of_logging_The_impact_of_log4j.pdf).
+- [Unit 1 - Peer_Response2 Collaborative The Pros and cons of logging The impact of log4j](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_1/Peer_Response2_Collaborative_The_Pros_and_cons_of_logging_The_impact_of_log4j.pdf).
 
 
 
