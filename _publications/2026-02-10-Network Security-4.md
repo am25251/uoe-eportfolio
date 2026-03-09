@@ -40,11 +40,11 @@ This section is used to summarize some of the key concepts I have learned in the
 <details>
 <summary>Tutor Feedback</summary>
 
- Dear Participant, Thank you for your mid-module summative submission. Your Turnitin similarity score is 8% which shows good engagement with summarising, paraphrasing and referencing. Well done!
+* Dear Participant, Thank you for your mid-module summative submission. Your Turnitin similarity score is 8% which shows good engagement with summarising, paraphrasing and referencing. Well done!
 
 Please find below feedback comments on your submission.
 
-Knowledge and Understanding 
+* Knowledge and Understanding 
 
 Grade: 68%
 
@@ -52,19 +52,19 @@ You have shown a good baseline assessment of the Zero Bank application by correc
 
 However, your discussion of potential security challenges remains somewhat reliant on tool output; while you mention "Broken Access Control" as a generic risk, you have not provided a specific manual walkthrough that is unique to the Zero Bank's banking functions (e.g., specific transaction vulnerabilities).
 
-Application of Knowledge 
+* Application of Knowledge 
 
 Grade: 66%
 
 In your implementation of the assessment, you have utilised Nessus Essentials and Nikto effectively. You have also justified the use of Nessus for "comprehensive vulnerability detection" and supplemented it with manual inspection to reduce false positives. Your report includes a methodology based on NIST SP 800-115, which is an excellent choice. However, your discussion on the operational impact of these tools is brief.  While you mention "potential performance overhead," you have missed a detailed analysis of how an unauthenticated Nessus scan might specifically impact a production Fintech environment's availability or trigger automated defense mechanisms.
 
-Criticality 
+* Criticality 
 
 Grade: 64%
 
 Your list of assumptions and limitations is present, specifically noting that the architecture is assumed due to the system being "closed" and acknowledging that Nessus can generate false positives. Your timeline is structured and realistic. You have provided a Criticality table (Table 1) that maps findings to CVSS scores, which adds depth to your analysis. However, you could have included a critical appraisal of the limitations of the automated tools themselves in the context of Java application logic. 
 
-Presentation and Structure
+* Presentation and Structure
 
 Grade:74%
 
