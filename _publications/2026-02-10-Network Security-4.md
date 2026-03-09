@@ -40,7 +40,7 @@ This section is used to summarize some of the key concepts I have learned in the
 <details>
 <summary>Tutor Feedback</summary>
 
-Dear Participant, Thank you for your mid-module summative submission. Your Turnitin similarity score is 8% which shows good engagement with summarising, paraphrasing and referencing. Well done!
+ Dear Participant, Thank you for your mid-module summative submission. Your Turnitin similarity score is 8% which shows good engagement with summarising, paraphrasing and referencing. Well done!
 
 Please find below feedback comments on your submission.
 
@@ -71,23 +71,17 @@ Grade:74%
 Your report is professionally structured, utilising tables and bullet points. You have included figures 1-9 that provide evidence of your activities. Your use of citations is also correct. One minor area for improvement in Figure 9, labeled as "Simplified architecture," is a helpful addition but could be more integrated into the text to explain how the vulnerabilities found in Section 5 specifically compromise that architecture. Your word count is also well within the limits. Well done!
 
  
-
 Overall Weight = 68%
 Overall Contribution to Final Grade: 27.2%
 
-
-Kayode Popoola, Ph.D.
-
-18/02/26
+Kayode Popoola, Ph.D. 18/02/26
 
 </details>
 
 ## Reports
 
 - [Unit 1 - Cyberattack Case File Origins Methods and Mitigation](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_1/Cyberattack_Case_File_Origins_Methods_and_Mitigation_v1.pdf).
-
 - [Unit 2 - Vulnerability_Analysis_Literature_Review_Activity](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_2/Vulnerability_Analysis_Literature_Review_Activity_unit_2.pdf).
-
 - [Unit 3 - Nessus Vulnerability Scan](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_3/Nessus_Vulnerability_Scan_Unit_3.pdf).
 - [Unit 3 - Scanning Activities](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_3/Scanning_Activities_Unit_3.pdf).
 - [Unit 4 - Scanning and Collaborative Wiki Activity](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_4/Scanning_and_Collaborative_Wiki_Activity.pdf).
