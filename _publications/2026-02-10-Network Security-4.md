@@ -174,3 +174,52 @@ This reflection highlights that resilience in cybersecurity depends not only on 
 * NIST (2021) Cybersecurity Framework.
 * Rolfe, G., Freshwater, D., Jasper, M. (2001). Critical reflection in nursing and the helping professions: a user’s guide. Basingstoke: Palgrave Macmillan
 
+## Result
+<details>
+<summary>Tutor Feedback</summary>
+
+Dear Participant *******,
+
+
+Thank you for submitting your End of Module Assessment: Part A - Executive Summary.
+
+
+Please be aware that the grade may change due to the moderation and adjustment process.
+
+
+Please see below for my feedback comments.
+
+
+Part A: Executive Summary
+
+GRADE: DISTINCTION
+
+You have shown an excellent ability to align technical security risks with broader organizational strategy and Governance, Risk, and Compliance (GRC) frameworks. Your approach to framing recommendations shows a strong professional awareness of the FinTech sector's low risk appetite, particularly through your integration of the Digital Operational Resilience Act (DORA) alongside GDPR and the UK Computer Misuse Act 1990. Furthermore, you have successfully integrated wider organizational goals by specifically linking cloud optimization to sustainability and ensuring that security controls remain inclusive and accessible, which demonstrates a holistic understanding of the modern risk professional's role. In your implementation of remediation strategies, you provided a balanced suite of technical and procedural controls, such as the deployment of a Security Operations Center (SOC) and the use of incident playbooks. You have clearly articulated the limitations of the black-box methodology, referencing NIST SP 800-115 to justify the scope of your findings. Well done!
+
+
+Thank you for submitting your End of Module Assessment: Part B - Critical Reflection
+
+.
+
+Please be aware that the grade may change due to the moderation and adjustment process.
+
+
+Please see below for my feedback comments.
+
+
+Part B: Critical Reflection 
+
+GRADE: MERIT
+
+
+You have shown genuine critical engagement with your learning journey by applying the Rolfe et al. (2001) 3W model to structure your narrative. Your transition of viewing vulnerability reports as "purely technical" to understanding them as strategic documents that require risk-based analysis and regulatory context is well thought. Additionally, in your implementation of information synthesis, you have clearly articulated how moving from CVE-level discussions to CWE-level classifications improved the ethical compliance and analytical quality of your work.
+
+
+In your approach to the "Now What?" section, you have missed the opportunity to define a specific technical roadmap or identified professional milestones (such as mastering specific frameworks you mentioned in Unit 4) to support this goal which would have elevated your critical reflection to a higher grade band.
+
+
+Kayode Popoola, Ph.D.
+
+11/03/26
+
+</details>
