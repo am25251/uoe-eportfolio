@@ -8,64 +8,37 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 
 
 This section is used to summarize some of the key concepts I have learned in the programme
-
-[Text]
-
-## Learning Outcome
-
-[Text]
-
-## Practical Application
-
-[Text]
-
-## Critical Reflection
-
-[Text]
-
-## Learning Process
-
-[Text]
-
-## Broader Context
-
-[Text]
-
-## Future Direction
-
-[Text]
+<br>
 
 
 <br>
 <br>
 
-#### Essays
+## Content
 
-[Text]
-
-
-#### Reports
-
-
-[Text]
-
-
-#### Posts
-
-- [Initial Post - text](https://am25251.github.io/e-portfolio/files/text.pdf).
-
-
+* **Unit 1** – Introduction and Recap of Object-Oriented Programming (OOP)
+* **Unit 2** – SOLID Principles of Object-Oriented Design
+* **Unit 3** – Design Patterns I - Creational Patterns
+* **Unit 4** – Design Patterns II - Structural Patterns
+* **Unit 5** – Design Patterns III - Behavioural Patterns
+* **Unit 6** – Concurrency and Parallelism in Object-Oriented Design
+* **Unit 7** – Secure Coding Practices in Object-Oriented Programming
+* **Unit 8** – Unit 8: Refactoring and Code Smells
+* **Unit 9** – Unit 9: Object-Oriented Software Architecture
+* **Unit 10** – Unit 10: Test-Driven Development (TDD) and Behaviour Driven Development (BDD)
+* **Unit 11** – Unit 11: Dependency Injection and Inversion of Control (IoC)
+* **Unit 12** – Unit 12: Recent Developments and Review
+* **Conclusion**
+* **Use of Digital Tools**
+* **Reflective Summary**
+* **References**
 
 <br>
 <br>
 
-Feedback (tutor)
 
-<details>
-text text text
+<br>
 
-
-</details>
-  
-#### Result XX % (text)
+## Unit 2: SOLID Principles of Object-Oriented Design - Seminar Task
+- [Unit 3 - Mid Module Assignment Security Risk Identification and Technical Design Analysis](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_3/Mid_Module_Assignment_Security_Risk_Identification_and_Technical_Design_Analysis_Unit_3_v1.pdf).
 
