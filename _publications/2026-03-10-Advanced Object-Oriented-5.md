@@ -40,5 +40,5 @@ This section is used to summarize some of the key concepts I have learned in the
 <br>
 
 ## Unit 2: SOLID Principles of Object-Oriented Design - Seminar Task
-- [Unit 3 - Mid Module Assignment Security Risk Identification and Technical Design Analysis](https://am25251.github.io/uoe-eportfolio/files/03-Network_Security_January_2026/Unit_3/Mid_Module_Assignment_Security_Risk_Identification_and_Technical_Design_Analysis_Unit_3_v1.pdf).
+- [Unit 2 - Seminar_SOLID_Principles](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Unit2_Seminar_solid_principles_v2.pptx).
 
