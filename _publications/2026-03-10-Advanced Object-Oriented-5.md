@@ -7,7 +7,7 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 ---
 
 
-This section is used to summarize some of the key concepts I have learned in the programme
+## This section summarises the key concepts I have learned during this semester. reflected using Rolfe’s 3W's model
 <br>
 
 
@@ -41,4 +41,63 @@ This section is used to summarize some of the key concepts I have learned in the
 
 ## Unit 2: SOLID Principles of Object-Oriented Design - Seminar Task
 - [Unit 2 - Seminar_SOLID_Principles](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Unit2_Seminar_solid_principles_v2.pptx).
+
+## Unit 6: Mid Module Assignment - Individual Coding Exercise Advanced Object-Oriented Design and Programming
+[Unit 6 - Mid Module Assignment - Individual Coding Exercise](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_6/Unit_6_Individual_Coding_Exercise_V3.pdf).
+
+## Result
+<details>
+<summary>Tutor Feedback</summary>
+  
+</details>
+
+
+## Reports
+
+## Unit x: NAME XXXX Object-Oriented Design and Programming
+[Unit X - NAME XXXX Object-Oriented Design and Programming](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_x/Unit_x_FILE.pdf).
+
+## Posts
+
+
+## Coding Exercises
+
+<br>
+<br>
+
+## Reflective Summary
+**Reflective Model 03 - Network Security**
+
+* **What (happened)**: I describe the experience
+* **So what**: I reflect on meaning and learning
+* **Now what**: I decide on future actions and improvements
+
+**Introduction**
+In this reflection, I apply the 3W model developed by Rolfe et al. (What? So What? Now What?) to critically evaluate my professional learning development in the Network Security module. I reflect on how my theoretical knowledge, technical skills, analytical thinking, and professional awareness developed across Units 1 to 6.
+
+(Rolfe et al., 2001).
+
+
+
+
+## What? – Description of the Experience
+
+
+## So What? – Evaluation and Analysis
+
+
+## Now What? – Conclusion and Action Plan
+
+
+## References
+
+
+## Result
+<details>
+<summary>Tutor Feedback</summary>
+
+
+</details>
+
+
 
