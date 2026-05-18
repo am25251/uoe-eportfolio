@@ -39,8 +39,6 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 
 <br>
 
-## Unit 2: SOLID Principles of Object-Oriented Design - Seminar Task
-- [Unit 2 - Seminar_SOLID_Principles](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Unit2_Seminar_solid_principles_v2.pptx).
 
 ## Unit 6: Mid Module Assignment - Individual Coding Exercise Advanced Object-Oriented Design and Programming
 [Unit 6 - Mid Module Assignment - Individual Coding Exercise](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_6/Unit_6_Individual_Coding_Exercise_V3.pdf).
