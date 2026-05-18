@@ -59,6 +59,13 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 
 ## Posts
 
+## Seminars
+
+## Unit 2: SOLID Principles of Object-Oriented Design - Seminar Task
+- [Unit 2 - Seminar_SOLID_Principles](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Unit2_Seminar_solid_principles_v2.pptx).
+
+## Unit 4: Structural Design Patterns II - Seminar Task
+- [Unit 4 - Organizing classes & objects into flexible structures](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_4/Unit_4_Structural-Design-Patterns_II_v2.pptx).
 
 ## Coding Exercises
 
