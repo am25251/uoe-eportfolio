@@ -6,6 +6,7 @@ excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practi
 filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 ---
 
+## Important! Page is a work-in-progress and will be fully completed by the end of the module 
 
 ## This section summarises the key concepts I have learned during this semester. reflected using Rolfe’s 3W's model
 <br>
