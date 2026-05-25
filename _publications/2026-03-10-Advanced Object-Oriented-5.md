@@ -54,8 +54,10 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 ## Posts
 
 ## Unit 4: Implementing the Factory Method Pattern
-[Unit 4 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_4/Unit_4_Design_Patterns_II-Structural_Patterns.pdf).
+- [Unit 4 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_4/Unit_4_Design_Patterns_II-Structural_Patterns.pdf).
 
+<br>
+<br>
 
 ## Seminars
 
@@ -75,38 +77,37 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 
 ## Unit 1: Introduction and Recap of Object-Oriented Programming (OOP)
 
-[Unit 1: Introduction and Recap of Object-Oriented Programming (OOP](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Programming_Exercises.pdf).
+- [Unit 1: Introduction and Recap of Object-Oriented Programming (OOP](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Programming_Exercises.pdf).
 
-[Unit_1_Task_1_Basic_Class_Hierarchy_(Inheritance)](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Task_1_Basic_Class_Hierarchy_Inheritance.py).
+- [Unit_1_Task_1_Basic_Class_Hierarchy_(Inheritance)](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Task_1_Basic_Class_Hierarchy_Inheritance.py).
 
-[Unit_1_Task_2_Polymorphism_with_Methods_(Abstraction)](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Task_2_Polymorphism_with_Methods_(Abstraction).py).
+- [Unit_1_Task_2_Polymorphism_with_Methods_(Abstraction)](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Task_2_Polymorphism_with_Methods_(Abstraction).py).
 
-[Unit_1_Task_3_Encapsulation_with_Access_Control.py](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Task_3_Encapsulation_with_Access_Control.py).
+- [Unit_1_Task_3_Encapsulation_with_Access_Control.py](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Task_3_Encapsulation_with_Access_Control.py).
 
-[Unit_1_Task_4_Abstraction_with_Base_Class](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Task_4_Abstraction_with_Base_Class.py).
+- [Unit_1_Task_4_Abstraction_with_Base_Class](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Task_4_Abstraction_with_Base_Class.py).
 
-[Unit_1_Task_5_Constructor_and_Destructor](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Task_5_Constructor_and_Destructor.py).
-
-
-## Unit 2: SOLID Principles of Object-Oriented Design
-
-[Unit 2: SOLID Principles of Object-Oriented Design](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Unit_2_SOLID_Principles_of_Object-Oriented_Design.pdf).
-
-[Unit 2: Application_with_SOLID_Principles](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Application_with_SOLID_Principles.py).
+- [Unit_1_Task_5_Constructor_and_Destructor](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Task_5_Constructor_and_Destructor.py).
 
 <br>
 
+## Unit 2: SOLID Principles of Object-Oriented Design
+
+- [Unit 2: SOLID Principles of Object-Oriented Design](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Unit_2_SOLID_Principles_of_Object-Oriented_Design.pdf).
+
+- [Unit 2: Application_with_SOLID_Principles](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Application_with_SOLID_Principles.py).
+
+<br>
 
 ## Unit 3: Implementing the Factory Method Pattern
-[Unit 3 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_3/Unit_3_Design_Patterns_I-Creational_Patterns.pdf).
+- [Unit 3 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_3/Unit_3_Design_Patterns_I-Creational_Patterns.pdf).
 
-## Unit 3: Implementing the Factory Method Pattern
-[Unit 3 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_3/Implementing_the_Factory_Method_Pattern.py).
+- [Unit 3 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_3/Implementing_the_Factory_Method_Pattern.py).
 
 <br>
 
 ## Unit 5: Design Patterns III - Behavioural Patterns
-[Unit 5: Design Patterns III - Behavioural Patterns](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_5/Unit_5_Design_Patterns_III-Behavioural_Patterns.pdf).
+- [Unit 5: Design Patterns III - Behavioural Patterns](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_5/Unit_5_Design_Patterns_III-Behavioural_Patterns.pdf).
 
 <br>
 <br>
