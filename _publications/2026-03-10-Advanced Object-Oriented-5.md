@@ -99,8 +99,26 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 
 ## Unit 6: Concurrency and Parallelism in Object-Oriented Design - Seminar Task
 - [Unit 4 - Organizing classes & objects into flexible structures](https://am25251.github.io/uoe-eportfolio/files/Advanced_Object-Oriented_Design_and_Programming/Unit_6/Seminar/Unit_6_Seminar_Title_Concurrency_and_Parallelism_in_Object-Oriented_Design.pptx).
+- 
 
 ## Coding Exercises
+
+## Unit 1: Introduction and Recap of Object-Oriented Programming (OOP)
+
+[Unit 1: Introduction and Recap of Object-Oriented Programming (OOP](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Programming_Exercises.pdf).
+
+[Unit_1_Task_1_Basic_Class_Hierarchy_(Inheritance)](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1_Task_1_Basic_Class_Hierarchy_(Inheritance).py).
+
+[Unit_1_Task_2_Polymorphism_with_Methods_(Abstraction)](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Task_2_Polymorphism_with_Methods_(Abstraction).py).
+
+[Unit_1_Task_3_Encapsulation_with_Access_Control.py](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Task_3_Encapsulation_with_Access_Control.py).
+
+[Unit_1_Task_4_Abstraction_with_Base_Class](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Task_4_Abstraction_with_Base_Class.py).
+
+[Unit_1_Task_5_Constructor_and_Destructor](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Task_5_Constructor_and_Destructor.py).
+
+
+
 
 ## Unit 3: Implementing the Factory Method Pattern
 [Unit 3 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/Advanced_Object-Oriented_Design_and_Programming/Unit_x/Unit_x_FILE.pdf).
