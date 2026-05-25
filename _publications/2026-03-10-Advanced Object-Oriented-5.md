@@ -41,9 +41,6 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 <br>
 
 
-## Unit 6: Mid Module Assignment - Individual Coding Exercise Advanced Object-Oriented Design and Programming
-[Unit 6 - Mid Module Assignment - Individual Coding Exercise](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_6/Unit_6_Individual_Coding_Exercise_V3.pdf).
-
 ## Result
 <details>
 <summary>Tutor Feedback</summary>
@@ -53,12 +50,13 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 
 ## Reports / Study Cases
 
-## Unit 1: NAME NAME 
-[Unit X - NAME NAME Object-Oriented Design and Programming](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_x/Unit_x_FILE.pdf).
-
 
 ## Posts
 
+## Unit 4: Design Patterns II - Structural Patterns
+
+## Unit 4: Implementing the Factory Method Pattern
+[Unit 3 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_4/Unit_4_Design_Patterns_II-Structural_Patterns.pdf).
 
 
 ## Seminars
@@ -67,10 +65,10 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 - [Unit 2 - Seminar_SOLID_Principles](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Seminar_Unit2_solid_principles_v2.pptx).
 
 ## Unit 4: Structural Design Patterns II - Seminar Task
-- [Unit 4 - Organizing classes & objects into flexible structures](https://am25251.github.io/uoe-eportfolio/files/Advanced_Object-Oriented_Design_and_Programming/Unit_4/Unit_4_Structural-Design-Patterns_II_v2.pptx).
+- [Unit 4 - Organizing classes & objects into flexible structures](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_4/Unit_4_Structural-Design-Patterns_II_v2.pptx).
 
 ## Unit 6: Concurrency and Parallelism in Object-Oriented Design - Seminar Task
-- [Unit 4 - Organizing classes & objects into flexible structures](https://am25251.github.io/uoe-eportfolio/files/Advanced_Object-Oriented_Design_and_Programming/Unit_6/Seminar/Unit_6_Seminar_Title_Concurrency_and_Parallelism_in_Object-Oriented_Design.pptx).
+- [Unit 4 - Organizing classes & objects into flexible structures](https://am25251.github.io/uoe-eportfolio/files/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_6/Unit_6_Seminar_Title_Concurrency_and_Parallelism_in_Object-Oriented_Design.pptx).
 - 
 
 ## Coding Exercises
@@ -97,10 +95,18 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 [Unit 2: Application_with_SOLID_Principles](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Application_with_SOLID_Principles.py).
 
 
+## Unit 3: Design Patterns I - Creational Patterns
 
 ## Unit 3: Implementing the Factory Method Pattern
-[Unit 3 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/Advanced_Object-Oriented_Design_and_Programming/Unit_x/Unit_x_FILE.pdf).
+[Unit 3 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_3/Unit_3_Design_Patterns_I-Creational_Patterns.pdf).
 
+## Unit 3: Implementing the Factory Method Pattern
+[Unit 3 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_3/Implementing_the_Factory_Method_Pattern.py).
+
+
+## Unit 5: Design Patterns III - Behavioural Patterns
+
+[## Unit 5: Design Patterns III - Behavioural Patterns](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_5/Unit_5_Design_Patterns_III-Behavioural_Patterns.pdf).
 
 <br>
 <br>
