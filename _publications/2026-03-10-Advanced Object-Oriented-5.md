@@ -98,7 +98,7 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 - [Unit 4 - Organizing classes & objects into flexible structures](https://am25251.github.io/uoe-eportfolio/files/Advanced_Object-Oriented_Design_and_Programming/Unit_4/Unit_4_Structural-Design-Patterns_II_v2.pptx).
 
 ## Unit 6: Concurrency and Parallelism in Object-Oriented Design - Seminar Task
-- [Unit 4 - Organizing classes & objects into flexible structures](https://am25251.github.io/uoe-eportfolio/files/Advanced_Object-Oriented_Design_and_Programming/Unit_6/Unit_6.pptx).
+- [Unit 4 - Organizing classes & objects into flexible structures](https://am25251.github.io/uoe-eportfolio/files/Advanced_Object-Oriented_Design_and_Programming/Unit_6/Seminar/Unit_6_Seminar_Title_Concurrency_and_Parallelism_in_Object-Oriented_Design.pptx).
 
 ## Coding Exercises
 
