@@ -15,7 +15,7 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 <br>
 <br>
 
-## Content
+# Content
 
 * **Unit 1** – Introduction and Recap of Object-Oriented Programming (OOP)
 * **Unit 2** – SOLID Principles of Object-Oriented Design
@@ -41,7 +41,7 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 <br>
 
 
-## Result
+# Result
 <details>
 <summary>Tutor Feedback</summary>
   
@@ -51,31 +51,31 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 ## Reports / Study Cases
 
 
-## Posts
+# Posts
 
-## Unit 4: Implementing the Factory Method Pattern
+### Unit 4: Implementing the Factory Method Pattern
 - [Unit 4 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_4/Unit_4_Design_Patterns_II-Structural_Patterns.pdf).
 
 <br>
 <br>
 
-## Seminars
+# Seminars
 
-## Unit 2: SOLID Principles of Object-Oriented Design - Seminar Task
+### Unit 2: SOLID Principles of Object-Oriented Design - Seminar Task
 - [Unit 2 - Seminar_SOLID_Principles](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Seminar_Unit2_solid_principles_v2.pptx).
 
-## Unit 4: Structural Design Patterns II - Seminar Task
+### Unit 4: Structural Design Patterns II - Seminar Task
 - [Unit 4 - Organizing classes & objects into flexible structures](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_4/Unit_4_Structural-Design-Patterns_II_v2.pptx).
 
-## Unit 6: Concurrency and Parallelism in Object-Oriented Design - Seminar Task
+### Unit 6: Concurrency and Parallelism in Object-Oriented Design - Seminar Task
 - [Unit 6 - Unit_6_Seminar_Title_Concurrency_and_Parallelism_in_Object-Oriented_Design](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_6/Unit_6_Seminar_Title_Concurrency_and_Parallelism_in_Object-Oriented_Design.pptx).
 
 <br>
 <br>
 
-## Coding Exercises
+# Coding Exercises
 
-## Unit 1: Introduction and Recap of Object-Oriented Programming (OOP)
+### Unit 1: Introduction and Recap of Object-Oriented Programming (OOP)
 
 - [Unit 1: Introduction and Recap of Object-Oriented Programming (OOP](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Programming_Exercises.pdf).
 
@@ -91,7 +91,7 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 
 <br>
 
-## Unit 2: SOLID Principles of Object-Oriented Design
+### Unit 2: SOLID Principles of Object-Oriented Design
 
 - [Unit 2: SOLID Principles of Object-Oriented Design](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Unit_2_SOLID_Principles_of_Object-Oriented_Design.pdf).
 
@@ -99,20 +99,20 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 
 <br>
 
-## Unit 3: Implementing the Factory Method Pattern
+### Unit 3: Implementing the Factory Method Pattern
 - [Unit 3 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_3/Unit_3_Design_Patterns_I-Creational_Patterns.pdf).
 
 - [Unit 3 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_3/Implementing_the_Factory_Method_Pattern.py).
 
 <br>
 
-## Unit 5: Design Patterns III - Behavioural Patterns
+### Unit 5: Design Patterns III - Behavioural Patterns
 - [Unit 5: Design Patterns III - Behavioural Patterns](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_5/Unit_5_Design_Patterns_III-Behavioural_Patterns.pdf).
 
 <br>
 <br>
 
-## Reflective Summary
+# Reflective Summary
 **Reflective Model 03 - Network Security**
 
 * **What (happened)**: I describe the experience
@@ -127,19 +127,19 @@ In this reflection, I apply the 3W model developed by Rolfe et al. (What? So Wha
 
 
 
-## What? – Description of the Experience
+### What? – Description of the Experience
 
 
-## So What? – Evaluation and Analysis
+### So What? – Evaluation and Analysis
 
 
-## Now What? – Conclusion and Action Plan
+### Now What? – Conclusion and Action Plan
 
 
 ## References
 
 
-## Result
+### Result
 <details>
 <summary>Tutor Feedback</summary>
 
