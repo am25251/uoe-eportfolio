@@ -3,7 +3,6 @@ title: "Advanced Object-Oriented Design and Programming"
 collection: publications
 category: Essays
 excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practices within computer science, AI, cyber security and data science.'
-filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 ---
 
 ## Important! Page is a work-in-progress and will be fully completed by the end of the module 
@@ -120,6 +119,7 @@ filesurl: 'https://am25251.github.io/e-portfolio/files/file5.pdf'
 <summary>Tutor Feedback</summary>
 
 #### Grade 	80 % (Distinction)
+<br>
 
 #### Feedback comments 	
 Please note that all grades are provisional and subject to change until they have undergone internal and external moderation, been approved by the External Examiner, and ratified by the Examination Board.
