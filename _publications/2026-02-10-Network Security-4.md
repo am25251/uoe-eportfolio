@@ -192,7 +192,7 @@ Please see below for my feedback comments.
 
 Part A: Executive Summary
 
-GRADE: DISTINCTION
+GRADE: DISTINCTION 69%
 
 You have shown an excellent ability to align technical security risks with broader organizational strategy and Governance, Risk, and Compliance (GRC) frameworks. Your approach to framing recommendations shows a strong professional awareness of the FinTech sector's low risk appetite, particularly through your integration of the Digital Operational Resilience Act (DORA) alongside GDPR and the UK Computer Misuse Act 1990. Furthermore, you have successfully integrated wider organizational goals by specifically linking cloud optimization to sustainability and ensuring that security controls remain inclusive and accessible, which demonstrates a holistic understanding of the modern risk professional's role. In your implementation of remediation strategies, you provided a balanced suite of technical and procedural controls, such as the deployment of a Security Operations Center (SOC) and the use of incident playbooks. You have clearly articulated the limitations of the black-box methodology, referencing NIST SP 800-115 to justify the scope of your findings. Well done!
 
