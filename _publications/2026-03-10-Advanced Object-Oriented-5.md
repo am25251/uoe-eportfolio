@@ -118,25 +118,25 @@ excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practi
 <details>
 <summary>Tutor Feedback</summary>
 
-**Grade - 80 % (Distinction)**
+Grade - 80 % (Distinction)
 
-**Feedback comments**
+Feedback comments
 
 Please note that all grades are provisional and subject to change until they have undergone internal and external moderation, been approved by the External Examiner, and ratified by the Examination Board.
 
-**Knowledge and understanding**
+Knowledge and understanding
 
 The submission demonstrates a strong understanding of concurrency principles and banking requirements. The BankAccount class is designed with appropriate synchronization mechanisms (RLock) to ensure atomicity and thread safety for deposits, withdrawals, and transfers. The report clearly articulates issues such as race conditions and deadlocks, but explaining strategies like canonical lock ordering to avoid circular waits can be helpful. The inclusion of invariants (e.g., conservation of total funds), but an extensive unit test can be shown to provide a well-grounded approach. The discussion was further enhanced by explicitly mapping each assignment requirement to the implemented features and tests to ensure full traceability. More analysis of scalability limits (e.g., effect of contention on performance under very high thread counts) would also enrich the evaluation. 
 
-**Application of knowledge and understanding**
+Application of knowledge and understanding
 
 Excellent demonstration of the OOP principles. The code executes correctly, with clear validation of deposits, withdrawals, and transfers across multiple accounts. The validation table is extremely helpful and well-documented. The TransactionSimulator produces deterministic concurrency scenarios, ensuring reproducibility of results. Error handling is thorough, with negative amounts and insufficient funds properly rejected. Performance testing in both single-account and two-account transfer scenarios demonstrates the system’s robustness and deadlock-free behaviour. While correctness is strong, additional real-world features such as transaction logging, rollback handling, or database persistence could further demonstrate applied knowledge. Including stress tests with thousands of accounts and users would better illustrate system resilience under extreme workloads.
 
-**Structure and Presentation (as detailed in the assessment guidance)**
+Structure and Presentation (as detailed in the assessment guidance)
 
 The code is modular, clean, and well-documented, following object-oriented principles of encapsulation and single responsibility. Docstrings, exception handling, and precise comments aid maintainability. The report is well-structured, with clear sections covering design rationale, concurrency models, testing strategies, and conclusions. References strengthen presentation and academic grounding. Visual presentation further enhanced with diagrams (e.g., UML sequence diagrams illustrating the order of lock acquisition) and graphical performance summaries. A README file with instructions for running and example outputs would improve usability for external reviewers. 
 
-**Academic integrity**
+Academic integrity
 
 The submission demonstrates originality and integrity. The design decisions and testing rationale are clearly articulated in the student’s own words, and references are properly provided. The project aligns with institutional expectations for independent work. A small improvement would be explicitly noting in the code comments where external ideas (e.g., lock ordering strategies) were informed by references, to ensure complete transparency.
 
