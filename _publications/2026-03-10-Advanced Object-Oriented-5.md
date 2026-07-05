@@ -102,19 +102,13 @@ excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practi
 
 - [Unit 2: Application_with_SOLID_Principles](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Application_with_SOLID_Principles.py).
 
-<br>
-
 ### Unit 3: Implementing the Factory Method Pattern
 - [Unit 3 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_3/Unit_3_Design_Patterns_I-Creational_Patterns.pdf).
 
 - [Unit 3 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_3/Implementing_the_Factory_Method_Pattern.py).
 
-<br>
-
 ### Unit 5: Design Patterns III - Behavioural Patterns
 - [Unit 5: Design Patterns III - Behavioural Patterns](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_5/Unit_5_Design_Patterns_III-Behavioural_Patterns.pdf).
-
-<br>
 
 ### Unit 6: Concurrency and Parallelism in Object-Oriented Design
 - [Unit 6: Assessment: Individual Coding Exercise](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_6/Unit_6_Individual_Coding_Exercise_V3.pdf).
