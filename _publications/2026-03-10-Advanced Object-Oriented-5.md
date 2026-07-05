@@ -14,7 +14,7 @@ excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practi
 <br>
 <br>
 
-# Content
+## Content
 
 * **Unit 1** – Introduction and Recap of Object-Oriented Programming (OOP)
 * **Unit 2** – SOLID Principles of Object-Oriented Design
@@ -40,7 +40,7 @@ excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practi
 <br>
 
 
-# Result
+## Result
 <details>
 <summary>Tutor Feedback</summary>
   
@@ -50,15 +50,21 @@ excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practi
 ## Reports / Study Cases
 
 
-# Posts
+## Posts
 
 ### Unit 4: Implementing the Factory Method Pattern
 - [Unit 4 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_4/Unit_4_Design_Patterns_II-Structural_Patterns.pdf).
 
+- ### Unit 7: Secure Coding Practices in Object-Oriented Programming
+ [Unit 7 - Secure Coding Practices in Object-Oriented Programming](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_7/Unit_7_Secure_Coding_Practices_in_Object-Oriented_Programming.pdf).
+
+- ### Unit 8: Refactoring and Code Smells
+ [Unit 8 - Refactoring and Code Smells](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_8/Unit_8_Refactoring_and_Code_Smells.pdf).
+
 <br>
 <br>
 
-# Seminars
+## Seminars
 
 ### Unit 2: SOLID Principles of Object-Oriented Design - Seminar Task
 - [Unit 2 - Seminar_SOLID_Principles](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Seminar_Unit2_solid_principles_v2.pptx).
@@ -72,7 +78,7 @@ excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practi
 <br>
 <br>
 
-# Coding Exercises
+## Coding Exercises
 
 ### Unit 1: Introduction and Recap of Object-Oriented Programming (OOP)
 
@@ -112,6 +118,19 @@ excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practi
 
 ### Unit 6: Concurrency and Parallelism in Object-Oriented Design
 - [Unit 6: Assessment: Individual Coding Exercise](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_6/Unit_6_Individual_Coding_Exercise_V3.pdf).
+
+<br>
+
+## Case Studies 
+
+### Unit 9: Object-Oriented Software Architecture for an E-Commerce Platform
+- [Unit 9: Object-Oriented Software Architecture for an E-Commerce Platform](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_9/Unit_9_Object-Oriented_Software_Architecture_for_an_E-Commerce_Platform.pdf).
+
+### Unit 10: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning
+- [Unit 19: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_10/Unit_10_Object-Oriented_Software_Architecture_and_Test-Driven_Development_for_an_E-Learning.pdf).
+
+
+<br>
 
 ### Result
 
