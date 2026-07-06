@@ -5,7 +5,10 @@ category: Essays
 excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practices within computer science, AI, cyber security and data science.'
 ---
 
+<br>
+
 ## This section summarises the key concepts I have learned during this semester. reflected using Rolfe’s 3W's model
+
 <br>
 
 ## Content
@@ -28,21 +31,6 @@ excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practi
 * **References**
 
 <br>
-<br>
-
-
-<br>
-
-
-## Result
-<details>
-<summary>Tutor Feedback</summary>
-  
-</details>
-
-
-## Reports / Study Cases
-
 
 ## Posts
 
@@ -56,7 +44,6 @@ excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practi
  [Unit 8 - Refactoring and Code Smells](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_8/Unit_8_Refactoring_and_Code_Smells.pdf).
 
 <br>
-<br>
 
 ## Seminars
 
@@ -69,7 +56,6 @@ excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practi
 ### Unit 6: Concurrency and Parallelism in Object-Oriented Design - Seminar Task
 - [Unit 6 - Unit_6_Seminar_Title_Concurrency_and_Parallelism_in_Object-Oriented_Design](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_6/Unit_6_Seminar_Title_Concurrency_and_Parallelism_in_Object-Oriented_Design.pptx).
 
-<br>
 <br>
 
 ## Coding Exercises
