@@ -5,13 +5,7 @@ category: Essays
 excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practices within computer science, AI, cyber security and data science.'
 ---
 
-## Important! Page is a work-in-progress and will be fully completed by the end of the module 
-
 ## This section summarises the key concepts I have learned during this semester. reflected using Rolfe’s 3W's model
-<br>
-
-
-<br>
 <br>
 
 ## Content
