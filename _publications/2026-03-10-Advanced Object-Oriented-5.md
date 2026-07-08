@@ -139,10 +139,8 @@ Graded by 	Dr. Nawaz Khan
 </details>
 
 <br>
-<br>
-<br>
 
-## e-Portfolio comprehensive assignment
+## Unit 12 e-Portfolio comprehensive assignment - End of Module Assignment - reflecting on my own learning journey
 
 **1. Task 1 – Summary of Key Learning Outcomes**
 
