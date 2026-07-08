@@ -34,8 +34,8 @@ excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practi
 
 ## Posts
 
-### Unit 4: Implementing the Factory Method Pattern
-- [Unit 4 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_4/Unit_4_Design_Patterns_II-Structural_Patterns.pdf).
+### Unit 4: Design Patterns II - Structural Patterns
+- [Unit 4 - Design Patterns II - Structural Patterns](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_4/Unit_4_Design_Patterns_II-Structural_Patterns.pdf).
 
 - ### Unit 7: Secure Coding Practices in Object-Oriented Programming
  [Unit 7 - Secure Coding Practices in Object-Oriented Programming](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_7/Unit_7_Secure_Coding_Practices_in_Object-Oriented_Programming.pdf).
@@ -82,10 +82,10 @@ excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practi
 
 - [Unit 2: Application_with_SOLID_Principles](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Application_with_SOLID_Principles.py).
 
-### Unit 3: Implementing the Factory Method Pattern
-- [Unit 3 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_3/Unit_3_Design_Patterns_I-Creational_Patterns.pdf).
+### Unit 3: Design Patterns I - Creational Patterns
+- [Unit 3 - Design Patterns I - Creational Patterns](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_3/Unit_3_Design_Patterns_I-Creational_Patterns.pdf).
 
-- [Unit 3 - Implementing the Factory Method Pattern](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_3/Implementing_the_Factory_Method_Pattern.py).
+- [Unit 3 - Design Patterns I - Creational Patterns](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_3/Implementing_the_Factory_Method_Pattern.py). (Python implementation)
 
 ### Unit 5: Design Patterns III - Behavioural Patterns
 - [Unit 5: Design Patterns III - Behavioural Patterns](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_5/Unit_5_Design_Patterns_III-Behavioural_Patterns.pdf).
