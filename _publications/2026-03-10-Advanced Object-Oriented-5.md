@@ -90,7 +90,7 @@ excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practi
 ### Unit 5: Design Patterns III - Behavioural Patterns
 - [Unit 5: Design Patterns III - Behavioural Patterns](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_5/Unit_5_Design_Patterns_III-Behavioural_Patterns.pdf).
 
-### Unit 6: Concurrency and Parallelism in Object-Oriented Design
+### Unit 6: Concurrency and Parallelism in Object-Oriented Design (Graded)
 - [Unit 6: Assessment: Individual Coding Exercise](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_6/Unit_6_Individual_Coding_Exercise_V3.pdf).
 
 
