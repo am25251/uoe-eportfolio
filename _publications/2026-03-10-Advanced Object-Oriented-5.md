@@ -168,9 +168,11 @@ Unit 10 had enabled me to improvement the practices of defensive programming wit
 
 **Practical Evidence**
 
-•	Implementation of secure hashing of passwords using bcrypt (Unit 7)
-•	Validation controls and audit logging within ShopEase (Unit 9)
-•	Defensive programming and centralized validation within E-Learning Platform (Unit 10)
+*	Implementation of secure hashing of passwords using bcrypt (Unit 7)
+
+* Validation controls and audit logging within ShopEase (Unit 9)
+
+*	Defensive programming and centralized validation within E-Learning Platform (Unit 10)
 
 **1.2 Advanced Object-Oriented Principles**
 
@@ -184,10 +186,10 @@ Unit 6 had introduced concurrency control through a thread-safe banking system t
 
 **Practical Evidence**
 
-•	Vehicle and Car inheritance hierarchy (Unit 1)
-•	SOLID-based shopping system refactoring (Unit 2)
-•	Thread-safe BankAccount implementation using re-entrant locks (Unit 6)
-•	UML-based modular Course Management design (Unit 10)
+* Vehicle and Car inheritance hierarchy (Unit 1)
+* SOLID-based shopping system refactoring (Unit 2)
+* Thread-safe BankAccount implementation using re-entrant locks (Unit 6)
+* UML-based modular Course Management design (Unit 10)
 
 **1.3 Design Patterns and Maintainability**
 
@@ -219,10 +221,10 @@ Using this implementation of patterns I managed to demonstrate how structural de
 During unit 11 I implemented Dependency Injection and Inversion of Control (IoC). Using notification service abstractions, mock services during testing and SOLID principles, this had contributed to improved isolated unit testing and reduced coupling between components. A significant learning outcome was recognizing that design patterns should not be applied unnecessarily, some patterns improved extensibility considerably, while others added complexity that would not be justified within smaller applications.
 (Marcotte and Zebdi, 2022).
 Practical Evidence
-•	Factory Method implementation within object creation workflows (Unit 3)
-•	Strategy Pattern payment processing and discount systems (Units 5 and 8)
-•	Structural pattern implementations (Unit 4)
-•	Dependency Injection and mock service integration (Unit 11)
+* Factory Method implementation within object creation workflows (Unit 3)
+* Strategy Pattern payment processing and discount systems (Units 5 and 8)
+* Structural pattern implementations (Unit 4)
+* Dependency Injection and mock service integration (Unit 11)
 
 **1.4 Scalable Software Architecture**
 
@@ -233,10 +235,10 @@ Although the project scope remained relatively small in scale, it demonstrated h
 
 **Practical Evidence**
 
-•	Thread-safe banking architecture (Unit 6)
-•	ShopEase layered architecture (Unit 9)
-•	Repository and Observer integration (Unit 9)
-•	Secure E-Learning Platform modular architecture (Unit 10)
+* Thread-safe banking architecture (Unit 6)
+* ShopEase layered architecture (Unit 9)
+*	Repository and Observer integration (Unit 9)
+*	Secure E-Learning Platform modular architecture (Unit 10)
 
 **2. Task 2 – Showcase of Artefacts**
 
@@ -280,10 +282,10 @@ The testing exercises had primarily been focused on unit testing, validation log
 The Capstone Project of Secure E-Learning Platform had illustrated the module’s primary integration project and consolidated learning across object-oriented design, layered architecture, validation, and testing practices. The architecture was designed as a modular layered structure with the separation of User Management, Course Management, and Enrolment Management responsibilities. Validation logic was centralized within the business layer to reduce duplication and improve consistency across operations.
 (Simion, 2023; Beck, 2021).
 Unit testing focused on:
-•	Input validation
-•	Duplicate prevention
-•	Capacity enforcement
-•	Boundary conditions
+*	Input validation
+*	Duplicate prevention
+*	Capacity enforcement
+*	Boundary conditions
 Understanding of how architectural decisions have influenced maintainability and testing flexibility throughout the project, was one of the most significant learning outcome during this unit. While the introduction of abstraction and layered separation had initially increased implementation complexity, they had also improved organization and extensibility on the project development.
 (Beck, 2021).
 
@@ -307,54 +309,54 @@ Using the combination of coding exercises, documentation, testing, and reflectiv
 **Strengths**
 
 (Units 1–11)
-•	Strong understanding of object-oriented programming principles
-•	Ability to apply SOLID principles and modular decomposition
-•	Practical understanding of concurrency risks and synchronization
-•	Awareness of secure coding practices and validation strategies
-•	Experience using design patterns to improve maintainability
-•	Understanding of TDD and isolated testing approaches
-•	Ability to design layered software architecture
+*	Strong understanding of object-oriented programming principles
+*	Ability to apply SOLID principles and modular decomposition
+*	Practical understanding of concurrency risks and synchronization
+*	Awareness of secure coding practices and validation strategies
+*	Experience using design patterns to improve maintainability
+*	Understanding of TDD and isolated testing approaches
+*	Ability to design layered software architecture
 
 **Areas for Improvement**
 
 (Units 8–12)
-•	Distributed systems and cloud-native architecture
-•	Advanced automated testing and CI/CD pipelines
-•	Integration and mutation testing approaches
-•	Scalable service orchestration and resilience patterns
-•	AI-oriented lifecycle governance and maintainability
+*	Distributed systems and cloud-native architecture
+*	Advanced automated testing and CI/CD pipelines
+* Integration and mutation testing approaches
+*	Scalable service orchestration and resilience patterns
+*	AI-oriented lifecycle governance and maintainability
 
 **Future Goals**
 
 Goal 1 – Scalable Software Architecture
 Develop deeper understanding of:
-•	Distributed systems
-•	Microservices architecture
-•	Fault tolerance and resilience patterns
+*	Distributed systems
+*	Microservices architecture
+*	Fault tolerance and resilience patterns
 
 **Goal 2 – Advanced Testing**
 
 Improve expertise in:
-•	Integration testing
-•	Mutation testing
-•	Automated test pipelines
-•	CI/CD workflows
+*	Integration testing
+*	Mutation testing
+*	Automated test pipelines
+*	CI/CD workflows
 
 **Goal 3 – Secure and Ethical Software Engineering**
 
 Further develop understanding of:
-•	Secure API design
-•	Authentication strategies
-•	Transparency and traceability within evolving systems
+* Secure API design
+* Authentication strategies
+* Transparency and traceability within evolving systems
 
 **Planned Actions**
 
-•	Continue studying software architecture and improve both practical and theoretical knowledge and hands-on experience, learning more techniques and concepts
-•	Expand the knowledge to additional low-level programming languages
-•	Expand practical projects using layered and modular architecture
-•	Explore OWASP secure coding guidance in greater depth
-•	Develop stronger automated testing workflows
-•	Continuing improving understanding of design patterns and maintainability practices
+*	Continue studying software architecture and improve both practical and theoretical knowledge and hands-on experience, learning more techniques and concepts
+*	Expand the knowledge to additional low-level programming languages
+*	Expand practical projects using layered and modular architecture
+*	Explore OWASP secure coding guidance in greater depth
+*	Develop stronger automated testing workflows
+*	Continuing improving understanding of design patterns and maintainability practices
 
 **5. Conclusion**
 
@@ -403,23 +405,23 @@ I strive to deepen my knowledge of scalable and distributed software systems, es
 
 **References**
 
-•	Beck, K. (2003) Test-driven development : by example. 1st edition. Boston: Addison-Wesley. Available at: https://**omitted for privacy**_INST/s7iv0e/cdi_safari_books_v2_0321146530 [Accessed: 12 June 2026]
+*	Beck, K. (2003) Test-driven development : by example. 1st edition. Boston: Addison-Wesley. Available at: https://**omitted for privacy**_INST/s7iv0e/cdi_safari_books_v2_0321146530 [Accessed: 12 June 2026]
 
-•	Chow, J. (Tsz S. (2024) Software Architecture with Kotlin: Combine Various Architectural Styles to Create Sustainable and Scalable Software Solutions. 1st edition. [Online]. Birmingham: Packt Publishing, Limited. Available at: https://**omitted for privacy**_INST/s7iv0e/cdi_proquest_ebookcentral_EBC31813189  [Accessed: 26 June 2026].
+* Chow, J. (Tsz S. (2024) Software Architecture with Kotlin: Combine Various Architectural Styles to Create Sustainable and Scalable Software Solutions. 1st edition. [Online]. Birmingham: Packt Publishing, Limited. Available at: https://**omitted for privacy**_INST/s7iv0e/cdi_proquest_ebookcentral_EBC31813189  [Accessed: 26 June 2026].
 
-•	McDonald, J. C. (2022) Dead Simple Python: Idiomatic Python for the Impatient Programmer. 1st edition. New York: No Starch Press. Available at: https://**omitted for privacy**_INST/s7iv0e/cdi_proquest_ebookcentral_EBC7129684 [Accessed: 1 July 2026].
+*	McDonald, J. C. (2022) Dead Simple Python: Idiomatic Python for the Impatient Programmer. 1st edition. New York: No Starch Press. Available at: https://**omitted for privacy**_INST/s7iv0e/cdi_proquest_ebookcentral_EBC7129684 [Accessed: 1 July 2026].
 
-•	OWASP Foundation (2026) OWASP Cheat Sheet Series. Available at: https://cheatsheetseries.owasp.org/index.html [Accessed: 26 June 2026].
+*	OWASP Foundation (2026) OWASP Cheat Sheet Series. Available at: https://cheatsheetseries.owasp.org/index.html [Accessed: 26 June 2026].
 
-•	Python Software Foundation (2026) unittest — Unit testing framework. Available at: https://docs.python.org/3/library/unittest.html [Accessed: 3 July 2026].
+*	Python Software Foundation (2026) unittest — Unit testing framework. Available at: https://docs.python.org/3/library/unittest.html [Accessed: 3 July 2026].
 
-•	Siddiqui, A. (2025) Litmus Testing CPython Without the Global Interpreter Lock. ProQuest Dissertations & Theses.
+*	Siddiqui, A. (2025) Litmus Testing CPython Without the Global Interpreter Lock. ProQuest Dissertations & Theses.
 
-•	Simion, A. (2023) ‘Test-Driven Development in Go: A practical guide to writing idiomatic and efficient Go tests through real-world examples’, in Test-Driven Development in Go. [Online]. Birmingham, United Kingdom: Packt Publishing Limited. pp. 1–342.Available at: https://**omitted for privacy**_INST/s7iv0e/cdi_walterdegruyter_books_10_0000_9781803235028_001 [Accessed: 29 June 2026].
+*	Simion, A. (2023) ‘Test-Driven Development in Go: A practical guide to writing idiomatic and efficient Go tests through real-world examples’, in Test-Driven Development in Go. [Online]. Birmingham, United Kingdom: Packt Publishing Limited. pp. 1–342.Available at: https://**omitted for privacy**_INST/s7iv0e/cdi_walterdegruyter_books_10_0000_9781803235028_001 [Accessed: 29 June 2026].
 
-•	Tsybulka, K., 2024. Enhancing code quality through automated refactoring techniques (Doctoral dissertation, ETSI_Informatica).
+*	Tsybulka, K., 2024. Enhancing code quality through automated refactoring techniques (Doctoral dissertation, ETSI_Informatica).
 
-•	Rolfe, G., Freshwater, D. and Jasper, M., 2001. Critical reflection for nursing and the helping professions: A user's guide.
+*	Rolfe, G., Freshwater, D. and Jasper, M., 2001. Critical reflection for nursing and the helping professions: A user's guide.
 
 **Use of Digital Tools**
 
