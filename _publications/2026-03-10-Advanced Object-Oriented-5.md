@@ -93,37 +93,6 @@ excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practi
 ### Unit 6: Concurrency and Parallelism in Object-Oriented Design
 - [Unit 6: Assessment: Individual Coding Exercise](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_6/Unit_6_Individual_Coding_Exercise_V3.pdf).
 
-<br>
-
-## Case Studies 
-
-### Unit 9: Object-Oriented Software Architecture for an E-Commerce Platform
-- [Unit 9: Object-Oriented Software Architecture for an E-Commerce Platform](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_9/Unit_9_Object-Oriented_Software_Architecture_for_an_E-Commerce_Platform.pdf).
-
-### Unit 10: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning
-- [Unit 10: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_10/Unit_10_Object-Oriented_Software_Architecture_and_Test-Driven_Development_for_an_E-Learning.pdf).
-
-##  Capstone Project
-
-### Unit 12: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning
-- [Unit 10: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_10/Unit_10_Object-Oriented_Software_Architecture_and_Test-Driven_Development_for_an_E-Learning.pdf).
-
-### Unit 12: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning (Python Source Code)
-- [Unit 10: Course Management](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_10/course_management.py).
-
-### Unit 12: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning (Python Source Code)
-- [Unit 10: Course Management With Demo](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_10/course_management_with_demo.py).
-
-### Unit 12: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning (Python Source Code)
-- [Unit 10: Test Course Management](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_10/test_course_management.py).
-
-### Unit 12: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning (Python Source Code)
-- [Unit 10: README (Instructions how to run the code) ](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_10/README.md).
-
-
-<br>
-
-### Result
 
 <details>
 <summary>Tutor Feedback</summary>
@@ -154,6 +123,34 @@ Graded on 	Monday, 15 June 2026, 1:20 PM
 Graded by 	Dr. Nawaz Khan
 
 </details>
+
+
+<br>
+
+## Case Studies 
+
+### Unit 9: Object-Oriented Software Architecture for an E-Commerce Platform
+- [Unit 9: Object-Oriented Software Architecture for an E-Commerce Platform](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_9/Unit_9_Object-Oriented_Software_Architecture_for_an_E-Commerce_Platform.pdf).
+
+### Unit 10: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning
+- [Unit 10: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_10/Unit_10_Object-Oriented_Software_Architecture_and_Test-Driven_Development_for_an_E-Learning.pdf).
+
+##  Capstone Project - (Unit 12)
+
+### Unit 12: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning
+- [Unit 10: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_10/Unit_10_Object-Oriented_Software_Architecture_and_Test-Driven_Development_for_an_E-Learning.pdf).
+
+### Unit 12: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning (Python Source Code)
+- [Unit 10: Course Management](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_10/course_management.py).
+
+### Unit 12: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning (Python Source Code)
+- [Unit 10: Course Management With Demo](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_10/course_management_with_demo.py).
+
+### Unit 12: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning (Python Source Code)
+- [Unit 10: Test Course Management](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_10/test_course_management.py).
+
+### Unit 12: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning (Python Source Code)
+- [Unit 10: README (Instructions how to run the code) ](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_10/README.md).
 
 <br>
 
@@ -430,6 +427,7 @@ This document has been produced exclusively for educational purposes. Referenced
 
 
 ### Result
+
 <details>
 <summary>Tutor Feedback</summary>
 
