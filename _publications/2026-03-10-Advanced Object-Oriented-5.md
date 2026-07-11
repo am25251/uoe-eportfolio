@@ -103,6 +103,15 @@ excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practi
 ### Unit 10: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning
 - [Unit 10: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_10/Unit_10_Object-Oriented_Software_Architecture_and_Test-Driven_Development_for_an_E-Learning.pdf).
 
+### Unit 10: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning (Python Source Code)
+- [Unit 10: Course Management](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_10/course_management.py).
+
+### Unit 10: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning (Python Source Code)
+- [Unit 10: Course Management With Demo](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_10/course_management_with_demo.py).
+
+### Unit 10: Object-Oriented Software Architecture and Test-Driven Development for an E-Learning (Python Source Code)
+- [Unit 10: Test Course Management](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_10/test_course_management.py).
+
 
 <br>
 
