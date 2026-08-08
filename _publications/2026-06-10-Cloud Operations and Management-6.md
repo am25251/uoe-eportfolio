@@ -5,66 +5,130 @@ category: Essays
 excerpt: 'Cloud Operations and Management - cloud computing tools for scripting, GUI design and data analysis hybrid cloud, edge and fog computing, as well as emerging trends in the industry.'
 ---
 
-
-This section is used to summarize some of the key concepts I have learned in the programme
-
-[Text]
-
-## Learning Outcome
-
-[Text]
-
-## Practical Application
-
-[Text]
-
-## Critical Reflection
-
-[Text]
-
-## Learning Process
-
-[Text]
-
-## Broader Context
-
-[Text]
-
-## Future Direction
-
-[Text]
-
-
-<br>
 <br>
 
-#### Essays
+## This section summarises the key concepts I have learned during this semester. reflected using Rolfe’s 3W's model
 
-[Text]
+<br>
 
+## Content
 
-#### Reports
+* **Unit 1** – Introduction to Cloud Fundamentals and Services
+* **Unit 2** – Understanding Cloud Architecture and Implementing Different Frameworks
+* **Unit 3** – Cloud Design Tools
+* **Unit 4** – Cloud Native Technology Part 1
+* **Unit 5** – Cloud Native Technology Part 2
+* **Unit 6** – Hybrid Cloud Solutions (Hybrid, Fog, Edge Computing)
+* **Unit 7** – Cloud Security and Compliance
+* **Unit 8** – Disaster Recovery and Business Continuity
+* **Unit 9** – Cloud Migration and Integration Strategies
+* **Unit 10** – Advanced Cloud Technologies (Serverless Computing)
+* **Unit 11** – AI and Cloud Computing
+* **Unit 12** – Future Trends in Cloud Computing
+* **Conclusion**
+* **Use of Digital Tools**
+* **Reflective Summary**
+* **References**
 
+<br>
 
-[Text]
+## Posts
 
-
-#### Posts
-
-- [Initial Post - text](https://am25251.github.io/e-portfolio/files/text.pdf).
+### Unit 4: Design Patterns II - Structural Patterns
+- [Unit 4 - Design Patterns II - Structural Patterns](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_4/Unit_4_Design_Patterns_II-Structural_Patterns.pdf).
 
 
 
 <br>
+
+## Seminars
+
+### Unit 2: SOLID Principles of Object-Oriented Design - Seminar Task
+- [Unit 2 - Seminar_SOLID_Principles](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Seminar_Unit2_solid_principles_v2.pptx).
+
+
+
 <br>
 
-Feedback (tutor)
+## Coding Exercises
+
+### Unit 1: Introduction and Recap of Object-Oriented Programming (OOP) WIP
+
+- [Unit 1: Introduction and Recap of Object-Oriented Programming (OOP](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Programming_Exercises.pdf).
+
+
+
+<br>
+
+### Unit 2: SOLID Principles of Object-Oriented Design - WIP
+
+- [Unit 2: SOLID Principles of Object-Oriented Design](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Unit_2_SOLID_Principles_of_Object-Oriented_Design.pdf).
+
+
 
 <details>
-text text text
+<summary>Tutor Feedback</summary>
 
 
 </details>
-  
-#### Result XX % (text)
+
+
+<br>
+
+## Case Studies 
+
+### Unit 9: Object-Oriented Software Architecture for an E-Commerce Platform
+- [Unit 9: Object-Oriented Software Architecture for an E-Commerce Platform](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_9/Unit_9_Object-Oriented_Software_Architecture_for_an_E-Commerce_Platform.pdf).
+
+
+##  Capstone Project - (Unit 12)
+
+
+
+<br>
+
+## Unit 12 e-Portfolio comprehensive assignment - End of Module Assignment - reflecting on my own learning journey
+
+
+<br>
+
+## Reflective Summary
+
+**Reflective Model - Advanced Object-Oriented Design and Programming April 2026**
+
+* **What (happened)**: I describe the experience
+* **So what**: I reflect on meaning and learning
+* **Now what**: I decide on future actions and improvements
+
+**Introduction**
+In this reflection, I apply the 3W model developed by Rolfe et al. (What? So What? Now What?) to critically evaluate my professional learning development in the Network Security module. I reflect on how my theoretical knowledge, technical skills, analytical thinking, and professional awareness developed across Units 1 to 6.
+
+(Rolfe et al., 2001).
+
+
+
+
+**What? – Description of the Experience**
+
+
+**So What? – Evaluation and Analysis**
+
+
+
+**Now What? – Conclusion and Action Plan**
+
+
+(Rolfe, at el, 2001)
+
+
+
+
+### Result
+
+<details>
+<summary>Tutor Feedback</summary>
+
+</details>
+
+
 
