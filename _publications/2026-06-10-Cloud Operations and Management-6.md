@@ -32,37 +32,17 @@ excerpt: 'Cloud Operations and Management - cloud computing tools for scripting,
 
 <br>
 
-## Posts
+## Formative Discussions
 
-### Unit 4: Design Patterns II - Structural Patterns
-- [Unit 4 - Design Patterns II - Structural Patterns](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_4/Unit_4_Design_Patterns_II-Structural_Patterns.pdf).
+### Unit 1: Introduction to Cloud Fundamentals and Services
+- [Unit 1 - Introduction to Cloud Fundamentals and Services](https://am25251.github.io/files/05_Cloud_Operations_and_Management_July_2026/Unit_1/Unit_1_Introduction-to-Cloud-Fundamentals-and-Services.pdf).
 
-
-
-<br>
-
-## Seminars
-
-### Unit 2: SOLID Principles of Object-Oriented Design - Seminar Task
-- [Unit 2 - Seminar_SOLID_Principles](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Seminar_Unit2_solid_principles_v2.pptx).
-
+### Unit 2: Understanding Cloud Architecture and Implementing Different Frameworks
+- [Unit 4 - Understanding Cloud Architecture and Implementing Different Frameworks](https://am25251.github.io/files/05_Cloud_Operations_and_Management_July_2026/Unit_2/Unit_2_Formative_Discussion_ROCCA_and_ToGAF.pdf).
 
 
 <br>
 
-## Coding Exercises
-
-### Unit 1: Introduction and Recap of Object-Oriented Programming (OOP) WIP
-
-- [Unit 1: Introduction and Recap of Object-Oriented Programming (OOP](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_1/Unit_1_Programming_Exercises.pdf).
-
-
-
-<br>
-
-### Unit 2: SOLID Principles of Object-Oriented Design - WIP
-
-- [Unit 2: SOLID Principles of Object-Oriented Design](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_2/Unit_2_SOLID_Principles_of_Object-Oriented_Design.pdf).
 
 
 
@@ -77,17 +57,16 @@ excerpt: 'Cloud Operations and Management - cloud computing tools for scripting,
 
 ## Case Studies 
 
-### Unit 9: Object-Oriented Software Architecture for an E-Commerce Platform
-- [Unit 9: Object-Oriented Software Architecture for an E-Commerce Platform](https://am25251.github.io/uoe-eportfolio/files/04-Advanced_Object-Oriented_Design_and_Programming/Unit_9/Unit_9_Object-Oriented_Software_Architecture_for_an_E-Commerce_Platform.pdf).
+### Unit 9: 
 
 
-##  Capstone Project - (Unit 12)
+
 
 
 
 <br>
 
-## Unit 12 e-Portfolio comprehensive assignment - End of Module Assignment - reflecting on my own learning journey
+## Unit 12 e-Portfolio - End of Module Assignment - reflecting on my own learning journey
 
 
 <br>
@@ -104,7 +83,6 @@ excerpt: 'Cloud Operations and Management - cloud computing tools for scripting,
 In this reflection, I apply the 3W model developed by Rolfe et al. (What? So What? Now What?) to critically evaluate my professional learning development in the Network Security module. I reflect on how my theoretical knowledge, technical skills, analytical thinking, and professional awareness developed across Units 1 to 6.
 
 (Rolfe et al., 2001).
-
 
 
 
