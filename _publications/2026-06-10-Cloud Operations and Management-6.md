@@ -35,7 +35,7 @@ excerpt: 'Cloud Operations and Management - cloud computing tools for scripting,
 ## Formative Discussions
 
 ### Unit 1: Introduction to Cloud Fundamentals and Services
-- [Unit 1 - Introduction to Cloud Fundamentals and Services]([https://am25251.github.io/files](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_1/Unit_1_Introduction-to-Cloud-Fundamentals-and-Services.pdf).
+- [Unit 1 - Introduction to Cloud Fundamentals and Services](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_1/Unit_1_Introduction-to-Cloud-Fundamentals-and-Services.pdf).
 
 ### Unit 2: Understanding Cloud Architecture and Implementing Different Frameworks
 - [Unit 4 - Understanding Cloud Architecture and Implementing Different Frameworks](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_2/Unit_2_Formative_Discussion_ROCCA_and_ToGAF.pdf).
