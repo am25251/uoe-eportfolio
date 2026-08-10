@@ -57,12 +57,6 @@ excerpt: 'Cloud Operations and Management - cloud computing tools for scripting,
 
 ## Case Studies 
 
-### Unit 9: 
-
-
-
-
-
 
 <br>
 
@@ -80,7 +74,7 @@ excerpt: 'Cloud Operations and Management - cloud computing tools for scripting,
 * **Now what**: I decide on future actions and improvements
 
 **Introduction**
-In this reflection, I apply the 3W model developed by Rolfe et al. (What? So What? Now What?) to critically evaluate my professional learning development in the Network Security module. I reflect on how my theoretical knowledge, technical skills, analytical thinking, and professional awareness developed across Units 1 to 6.
+In this reflection, I apply the 3W model developed by Rolfe et al. (What? So What? Now What?) to critically evaluate my professional learning development in the Network Security module. I reflect on how my theoretical knowledge, technical skills, analytical thinking, and professional awareness developed across Units 1 to 12.
 
 (Rolfe et al., 2001).
 
