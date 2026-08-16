@@ -1,0 +1,3 @@
+chmod +x azure-provision.sh
+az login
+./azure-provision.sh
