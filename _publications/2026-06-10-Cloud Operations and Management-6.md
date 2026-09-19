@@ -44,11 +44,18 @@ excerpt: 'Cloud Operations and Management - cloud computing tools for scripting,
 <br>
 
 
+## Formative Activities
 
+### Unit 4: Formative Activity: Bash Script and Report
+- [Unit 4 - Formative Activity: Bash Script and Report](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_4/Unit_4_Formative_Activity_Bash_Script_and_Report.pdf).
+
+### Unit 4: Formative Activity: Bash Script and Report
+- [Unit 4 - Formative Activity: Bash Script and Report](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_4/How_to_run.txt).
+
+<br>
 
 <details>
 <summary>Tutor Feedback</summary>
-
 
 </details>
 
