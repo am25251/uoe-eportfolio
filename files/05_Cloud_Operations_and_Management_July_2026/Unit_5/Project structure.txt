@@ -1,0 +1,8 @@
+python-12factor-app/
+│
+├── app.py
+├── requirements.txt
+├── Dockerfile
+├── .dockerignore
+├── deployment.yaml
+└── service.yaml

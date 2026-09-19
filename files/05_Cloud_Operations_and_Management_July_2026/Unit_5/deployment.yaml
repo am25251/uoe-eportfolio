@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: python-12factor-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: python-12factor-app
+  template:
+    metadata:
+      labels:
+        app: python-12factor-app
+    spec:
+      containers:
+      - name: python-app
+        image: python-12factor-app:latest
+        imagePullPolicy: Never
+        ports:
+        - containerPort: 5000
+        env:
+        - name: APP_ENV
+          value: "production"
