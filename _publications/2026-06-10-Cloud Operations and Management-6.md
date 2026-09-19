@@ -40,16 +40,40 @@ excerpt: 'Cloud Operations and Management - cloud computing tools for scripting,
 ### Unit 2: Understanding Cloud Architecture and Implementing Different Frameworks
 - [Unit 2 - Understanding Cloud Architecture and Implementing Different Frameworks](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_2/Unit_2_Formative_Discussion_ROCCA_and_ToGAF.pdf).
 
+### Unit 3: Cloud Design Tools
+- [Unit 3 - Formative Discussion: Cloud Design Tools](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_3/Unit_3_Formative_Discussion_Cloud_Design_Tools.pdf).
+
+### Unit 5: Cloud Native Technology Part 2
+- [Unit 5 - Formative Discussion: Kubernetes Cluster Deployment](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_5/Formative_Discussion_Kubernetes_Cluster_Deployment_v1.pdf).
+
+### Unit 5: Cloud Native Technology Part 2 
+- [Unit 5 - Formative Discussion: Kubernetes Cluster Deployment](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_5/Formative_Discussion_Kubernetes_Cluster_Deployment_v1.pdf).
+
+- [Unit 5 - Dockerfile](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_5/Dockerfile).
+
+- [Unit 5 - App.py](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_5/Dockerfile).
+
+- [Unit 5 - deployment.yaml](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_5/deployment.yaml).
+
+- [Unit 5 - Requirements.txt](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_5/requirements.txt).
+
+- [Unit 5 - Service.yaml](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_5/service.yaml).
+
+### Unit 7: Cloud Security and Compliance 
+- [Unit 7 - Formative Discussion: Security Audit](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_7/Unit_7_Formative_Discussion_Security_Audit.pdf).
+
+### Unit 8: Cloud Security and Compliance 
+- [Unit 8 - Discussion Forum: Disaster Recovery](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_8/Unit_8_Discussion_Forum_Disaster_Recovery.pdf).
 
 <br>
 
 
 ## Formative Activities
 
-### Unit 4: Formative Activity: Bash Script and Report
+### Unit 4: Cloud Native Technology Part 1
 - [Unit 4 - Formative Activity: Bash Script and Report](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_4/Unit_4_Formative_Activity_Bash_Script_and_Report.pdf).
 
-### Unit 4: Formative Activity: Bash Script and Report
+### Unit 4: Cloud Native Technology Part 1
 - [Unit 4 - Formative Activity: Bash Script and Report](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_4/How_to_run.txt).
 
 <br>
