@@ -92,30 +92,31 @@ excerpt: 'Cloud Operations and Management - cloud computing tools for scripting,
 <details>
 <summary>Tutor Feedback</summary>
 
+
 Dr. Stelios Sotiriadis - Feedback comments: 	
 
-* Knowledge and understanding of the topic/issues under consideration
+- Knowledge and understanding of the topic/issues under consideration
 The report demonstrates strong knowledge of Azure Resource Manager and Bicep. It explains the distinction between cloud service models and infrastructure management clearly. The work handles ARM’s direct and indirect roles across IaaS, PaaS and SaaS with confidence. The proof-of-concept evidence also supports the team’s understanding of how the framework works in practice.
 
-* Criticality
-The report contains very good critical evaluation of deployment choices, including cost, lock-in, regulation, operational complexity and resilience trade-offs. It does not simply describe ARM and Bicep, but explains where their use is strong and where platform limits remain. The infrastructure proposal sensibly distinguishes between production controls and a smaller proof of concept. The case study is effective in linking automation, security remediation and operational efficiency.
+- Criticality The report contains very good critical evaluation of deployment choices, including cost, lock-in, regulation, operational complexity and resilience trade-offs. It does not simply describe ARM and Bicep, but explains where their use is strong and where platform limits remain. The infrastructure proposal sensibly distinguishes between production controls and a smaller proof of concept. The case study is effective in linking automation, security remediation and operational efficiency.
 
-* Use of relevant sources
+- Use of relevant sources
 The source base is current, relevant and well matched to the topic. Microsoft Learn, NIST and the Microsoft case study are used to support specific claims. The report also uses cybersecurity material to contextualise the security discussion. Further breadth beyond vendor sources would strengthen the academic balance.
 
-* Structure and Presentation
+- Structure and Presentation
 The report is cohesive, readable and well aligned with the assignment brief. It has a clear sequence, useful figures, a comparison table and an appendix for proof-of-concept evidence. The writing is concise and generally polished. The infrastructure design section could be slightly more explicit as a staged process.
 
-* Academic integrity
+- Academic integrity
 The work shows strong academic integrity through consistent in-text citation and a complete reference list. Claims are generally attributed to credible sources. The evidence is clearly connected to the argument. The submission would be stronger with a slightly broader mix of independent academic sources alongside Microsoft documentation.
 
-* What your team did well
+- What your team did well
 The team produced a coherent, technically accurate and critical report that directly answers all parts of the brief.
 
-* How to improve
+- How to improve
 Make the infrastructure design section more step-by-step and widen the source base beyond Microsoft materials.
 
-* Grade 	86 % (Distinction)
+- Grade 	86 % (Distinction)
+
 
 </details>
 
