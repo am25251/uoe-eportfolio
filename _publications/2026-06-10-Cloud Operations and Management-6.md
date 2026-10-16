@@ -203,11 +203,8 @@ Develop a more analytical argument, strengthen the evidence behind each design c
 **Introduction**
 In this reflection, I apply the 3W model developed by Rolfe et al. (What? So What? Now What?) to critically evaluate my professional learning development in the Network Security module. I reflect on how my theoretical knowledge, technical skills, analytical thinking, and professional awareness developed across Units 1 to 12.
 
-(Rolfe et al., 2001).
-
-
-**Introduction**
 I use this reflection to evaluates my learning and development throughout Units 1–12 using Rolfe et al.’s reflective model of What? So what? Now what? The model provides a framework for evaluating the development of my experiences, their significance, and how I will apply the learning acquired during this module in future practice. Across this module, my learning had evolved from comparing cloud vendors and developing cloud adoption and to practical deployment, automation, security assessment, disaster recovery, risk management, serverless computing, effective cloud architecture and strategic growth. These activities demonstrated that a cloud computing strategy involves not only technical implementation but requires governance, security, cost, resilience and business alignment.
+
 (Rolfe et al., 2001)
 
 * Unit 1 – AWS and Azure Cloud
@@ -215,11 +212,11 @@ What?
 During Unit 1, I compared Amazon Web Services (AWS) and Microsoft Azure and discussed AWS Cloud. I initially focused on service differences, flexibility and pricing. AWS appeared strong in its breadth of configurable services, while Azure offered advantages for organizations employing Microsoft technologies. I also acknowledged that cloud pricing depends on workload design, resource selection and governance rather than simply choosing the cheapest provider.
 (Amazon Web Services, 2024a; Amazon Web Services, 2024b; Microsoft, 2026, Shamkura, 2025).
 
-So what?
+* So what?
 During this module, I expanded my understanding of cloud vendor selection, I have recognized that no vendor is universally superior, because architecture decisions must be aligned with organizational targets. My comment to Elvira helped support evaluating services according to actual workload and strength, rather than specific vendor’s capabilities. Highlights differences between AWS and Azure Cloud in pricing, services and AI/ML capabilities. This demonstrated that cloud strategy involves many trade-offs.
 (Galhotra, 2025)
 
-Now what?
+* Now what?
 I will focus on bringing cloud vendor selection strategy in alignment with the business mission, governance, security, scalability, infrastructure needs and cost efficiency, rather than focusing only on vendor service offering. This approach delivers a solid foundation for subsequent strategic and architectural decisions.
 
 * Unit 2 – ROCCA and TOGAF
@@ -227,118 +224,118 @@ What?
 Unit 2 introduced the combination of the ROCCA model and TOGAF 9.2 for cloud adoption planning and enterprise architecture and demonstrate that cloud adoption should align with organizational strategy and targets, governance, processes and business requirements.
 (Anggraini, et al., 2019) 
 
-So what?
+* So what?
 This challenged my perception that cloud migration is largely technical exercise. The SKK Migas critical infrastructure example demonstrated that data growth, infrastructure limitations, security, and governance must be addressed before implementation. I recognized that technically successful deployment can still fail strategically if it does not support organizational objectives.
 
-Now what?
+* Now what?
 I the future, I will begin cloud projects with focus on clear governance and alignment with business requirements, before selecting technologies and vendors. I will utilize architecture based on frameworks to structure conclusions rather than treating them as administrative documentation.
 
-Unit 3 – Pulumi and Infrastructure as Code.
+* Unit 3 – Pulumi and Infrastructure as Code.
 What?
 In Unit 3, I evaluated Pulumi as an Infrastructure as Code (IaC) solution. Pulumi supports languages including Python, TypeScript, Go, C#, Java and YAML and manages multiple cloud providers. Its testing and Policy as Code capabilities were also essential features.
 (Pulumi, 2026c; Pulumi, 2026d).
 
-So what?
+* So what?
 This helped me understand how infrastructure can be managed using software rather than manually configured resources. I valued the flexibility of Pulumi in utilization of familiar programming languages, reusable components, and automated policy controls. However, Terraform remains a mature, widely adopted alternative, meaning the use of both depends on the specific use and business case.
 
-Now what?
+* Now what?
 I intend to strengthen my IaC skills and compare tools according to maintainability, governance, portability, team capability and specific use and business case. For instance, Automated testing and policy enforcement will be important components of my future development and projects.
 
-Unit 4 – Azure Automation and Bash Scripting
+* Unit 4 – Azure Automation and Bash Scripting
 What?
 Unit 4 provided a practical learning experience. I used Azure CLI and Bash to create a resource group and virtual machine, verify resources and delete them. I also developed a Bash provisioning approach for repeatable deployment using Microsoft documentation on how to run command and automate VM deployment and configuration using Azure toolset.
 (Microsoft, 2026a; Microsoft, 2026d)
 
-So what?
+* So what?
 These activities demonstrated the difference between understanding commands theoretically and practically deploying and troubleshooting. I resolved some issues, created and deleted resource groups after testing, what helped to reinforce understanding relationship between automation and cost management. While automation helps to improve consistency and reduces manual effort; scripts require careful testing and oversight.
 (NIST, 2024).
 
-Now what?
+* Now what?
 I will utilize scripting more frequently in order to reduce administrative effort and cost, incorporating validation, error handling, least-privilege permissions, credential protection and resource cleanup, this also reinforced my understanding that automation should be integrated with monitoring and cost control. rather than treated as an end.
 (Yang et al., 2024)
 
-Unit 5 – Kubernetes and the 12-Factor Application
+* Unit 5 – Kubernetes and the 12-Factor Application
 What?
 During Unit 5 I built a Python-based 12-Factor Docker application and later I deployed using Minikube and Kubernetes. I created the Docker image, configured Kubernetes deployment and service files, and deployed the application. and verified browser access. This activity demonstrated an alignment. This alignment was with the 12-Factor environment-variable-based design methodology.
 (Heroku, 2024).
 
-So what?
+* So what?
 This helped to connect few previously disconnected concepts. Docker provided application portability and Minikube supported orchestration, deployment and networking. I identified that environment variables should not automatically be considered secure storage for sensitive information. Production applications require dedicated secret-management solutions.
 
-Now what?
+* Now what?
 I will develop my containerization and Kubernetes skills further, particularly in deployments, services, secrets, scaling and security. I also will focus on distinguishing successful technical deployment from production readiness and resilience.
 
-Unit 6 – Azure Resource Manager and Teamwork
+* Unit 6 – Azure Resource Manager and Teamwork
 What?
 The collaborative project work during Unit 6 focused on Azure Resource Manager (ARM), Bicep and ARM, which supported uniform Azure resource management and deployment, while Bicep provides a concise, modular IaC approach. The four-member team project peer evaluation had helped to assess the team's contribution.
 (Microsoft, 2026b; Microsoft, 2026c; Microsoft, 2026d).
 
-So what?
+* So what?
 The project demonstrated that cloud engineering could benefit from collaboration alongside cloud technology offering understanding. Peer review prompted critical review on contribution, quality, communication and accountability. Dependency management, reusable Bicep modules and What-If previews also showed how automation reduces deployment errors and supports governance.
 (Microsoft, 2026f).
 
-Now what?
+* Now what?
 In the future, I will prioritize cooperation, evaluation, proper documentation and constructive feedback. I will also use IaC validation and preview capabilities before production changes.
 
-Unit 7 – Docker Security and OpenVAS
+* Unit 7 – Docker Security and OpenVAS
 What?
 During Unit 7, I conducted a network-based security assessment of the 12-Factor docker application I developed in Unit 5. I installed and used OpenVAS Community Edition. The scan I conducted had identified no vulnerabilities within the tested scope, nevertheless, this did not prove the container was fully secure.
 
-So what?
+* So what?
 Using this lesson, I learned to interpret security tools automated results critically. OpenVAS primarily assesses externally observable network layer-based vulnerabilities and does not convert insecure Dockerfiles, vulnerable dependencies, excessive privileges or weaknesses inside container images, meaning that security assessments may require a combination of multiple layers and approaches.
 (Jarkas et al., 2025; Ajith et al., 2024; Docker, 2026)
 
-Now what?
+* Now what?
 In the future, I will define and deliver assessments that are focused on the scope and boundaries of testing. Focusing on the specific attack surface, for example network exposure, image scanning, dependency analysis, configuration review, privilege assessment and secure CI/CD practices, to ensure the effectiveness of the tested area results. I will also relate to methods such as threat modeling or exposures and exploitability databases, rather than treating vulnerability scanning as sufficient evidence of security.
 
-Unit 8 – Disaster Recovery
+* Unit 8 – Disaster Recovery
 What?
 In Unit 8 an Azure disaster recovery plan was required. using Azure Blob Storage, Restic, a secondary recovery region and hourly PostgreSQL backups. I illustrated a hypothetical one-hour Recovery Point Objective (RPO) and two-hour Recovery Time Objective (RTO). The hypothetical recovery should achieve an under one-hour RPO and under two-hours RTO to be effective.
 
-So what?
+* So what?
 This theoretical activity has shown that disaster recovery values must be measurable and tested. distinguishes RPO as data loss measured in time and RTO as the target time for restoring services. Backups are useful only when they can be restored. Restic's encryption, snapshots and restoration capabilities illustrated an applicable recovery mechanism.
 (Restic, 2026a; Restic, 2026b; Microsoft, 2025).
 
-Now what?
+* Now what?
 In the future, I will treat recovery testing as a crucial part of DRP, rather than simply documenting backup practices. When a possible designing, will include backup integrity checks, recovery drills, separated backup roles, responsibilities and privileges in addition to regional failure scenarios.
 
-Unit 9 – Security Risk and Compliance
+* Unit 9 – Security Risk and Compliance
 What?
 Unit 9 examined an imaginary pharmaceutical company scenario with IoT environment that involved refrigerated warehouses. I suggested evaluating threats modeling using the STRIDE threat modeling method and connecting the assessment to the NIST Cybersecurity Framework and ISO/IEC 27002.
 (Pascoe, et al., 2024; ISO, 2022).
 
-So what?
+* So what?
 The activity illustrated how security risk can be connected to business outcomes. Manipulated values could impact pharmaceutical operations even in cases where the cloud system does not directly control medicines. This highlighted the importance of unique device identities, encryption, least privilege and incident response. Where GDPR becomes relevant when personal information is involved.
 (European Union, 2016).
 
-Now what?
+* Now what?
 I will utilize threat modelling more often in solution design. I will treat security, privacy and compliance as continuous requirements. I will also exercise scenario testing of incident response and disaster recovery. I will do this rather than simply documenting consistently with NIST guidance.
 (Nelson et al., 2025).
 
-Unit 10 – OpenFaaS Serverless Computing
+* Unit 10 – OpenFaaS Serverless Computing
 What?
 In Unit 10 I created and applied a Python serverless function using OpenFaaS, packaged it using a Docker image, deployed and tested the execution. I encountered OpenFaaS related to Windows 11 environment variable and CLI issue and adjusted by using the supplied Dockerfile directly.
 
-So what?
+* So what?
 Troubleshooting has strengthened the fact that practical cloud engineering does not only mean following the documentation. Serverless computing can help to reduce administration effort and support independent scaling, while it may introduce security and operational risks that need to be considered concerning dependencies, authentication, and container images.
 (Morabito et al., 2023).
 
-Now what?
+* Now what?
 I will ensure the evaluation of serverless solutions according to workload characteristics rather than automatically assuming they are cheaper or better. in future design and deployments, I will ensure to include secure dependencies, authentication, monitoring and container security.
 
-Unit 11 – CoinMeister Cloud Strategy
+* Unit 11 – CoinMeister Cloud Strategy
 What?
 In Unit 11 I had merged the module's concepts through a hypothetical FinTech Cloud Strategy Assessment. I presented a hybrid architecture integrating private infrastructure for sensitive financial workloads and public cloud services for analytics, AI and scalable applications. I also incorporated IaC, automation, serverless computing, security and disaster recovery.
 
-So what?
+* So what?
 This supported the concept of incremental learning by connecting cloud providers, governance, security, automation and disaster recovery. I recognized that in FinTech architecture must balance scalability and innovation with regulations, resilience and security. Terraform and Ansible can be beneficial for automation and deployment consistency. Supported by strong security architecture, event monitoring and tested disaster recovery capabilities can help reduce operational risk.
 (Alzoubi et al., 2024; Snedaker, 2013).
 
-Now what?
+* Now what?
 I will ensure that future architectures are evaluated holistically across business value, security, resilience, cost control, compliance, and technological flexibility. I will also consider any vendor lock-in and utilize containers and IaC where appropriate to improve portability. 
 (Dunbar, 2024).
 
-Unit 12 – Portfolio Reflection and Future of Cloud Operations
+* Unit 12 – Portfolio Reflection and Future of Cloud Operations
 What?
 The final unit had contained a portfolio self-reflection assignment, and an additional formative discussion that focused on AI, blockchain, and quantum computing in cloud operations. AI can support workload prediction and resource optimization.
 (Rossi et al., 2025),
@@ -347,18 +344,18 @@ Blockchain can potentially improve trust and traceability across multi-cloud env
 In addition, quantum computing is increasingly accessible through cloud platforms using tools such as Qiskit.
 (Javadi-Abhari et al., 2024).
 
-So what?
+* So what?
 This encouraged me to extend my theoretical knowledge and technical skills beyond the technologies explored throughout the module. Reflecting on my previous units helped me recognize that cloud engineering continuously evolves, requiring professionals to evaluate emerging technologies critically rather than simply following trends. AI, blockchain and quantum computing could significantly change cloud management, security and optimization.
 
-Now what?
+* Now what?
 I will develop my knowledge of emerging technologies further and focus on practical value, security, cost efficiency and organizational objectives. in addition, the knowledge of AI-assisted cloud operations, blockchain applications, and quantum computing, while prioritizing ethical implementations such as privacy protection, security resilience and long-term operational requirements.
 
-Summary
+* Summary
 Across this module twelve units, my knowledge of Cloud Operations and Management had evolved from a technical perspective into a broader architectural, strategic and business oriented understanding. Theoretical and practical activities helped strengthen my skills in resource provisioning, automation, containerization, Kubernetes, security assessment, and disaster recovery. Collaborative discussions highlighted the importance of business alignment, risk management, and cost efficiency. I learned that cloud engineering requires more knowledge than only resource deployment, assets must be resilient, manageable, secure and aligned with business objectives. In my future development, I will focus on continuously improving my technical skills alongside architecture, governance, and security. The Rolfe’s model helped me identify my learning achievements and determine how to apply these lessons in future professional practice.
 (Rolfe et al., 2001)
 
 
-References
+* References
 •	Ajith, V., Cyriac, T., Chavda, C., Kiyani, A.T., Chennareddy, V. and Ali, K. (2024) ‘Analyzing docker vulnerabilities through static and dynamic methods and enhancing IoT security with AWS IoT Core, CloudWatch, and GuardDuty’, IoT, 5(3), pp.592–607.
 
 •	Alzoubi, Y.I., Mishra, A. and Topcu, A.E. (2024) Research trends in deep learning and machine learning for cloud computing security’, Artificial Intelligence Review, 57(5), p.132.
@@ -444,8 +441,6 @@ References
 This document has been produced exclusively for educational purposes. Referenced content, copyrights, and trademarks, remain the sole property of the respective owner. ChatGPT 5.5 was used for some proofreading and clarity as well as literature exploration, language refinement, coding and programming techniques research. All academic writing, analysis, argumentation, and conclusions represent the original work of the author. AI tools were used for exploration, same way as academic literature exploration. No AI-generated content or code was directly copied into the final submission. Any use of content mentioned in this document is properly referenced to its original author and was used responsibly to ensure integrity and originality. All academic writing, analysis, argumentation, and conclusions represent my original work. I have used Artificial Intelligence responsibly and ethically, in accordance with the assignment brief. All AI use has been declared and evidenced.
 
 
-
-### Result
 
 <details>
 <summary>Tutor Feedback</summary>
