@@ -102,24 +102,31 @@ excerpt: 'Cloud Operations and Management - cloud computing tools for scripting,
 * Dr. Stelios Sotiriadis - Feedback comments: 
 
 * Knowledge and understanding of the topic/issues under consideration
+
 The report demonstrates strong knowledge of Azure Resource Manager and Bicep. It explains the distinction between cloud service models and infrastructure management clearly. The work handles ARM’s direct and indirect roles across IaaS, PaaS and SaaS with confidence. The proof-of-concept evidence also supports the team’s understanding of how the framework works in practice.
 
-* Criticality 
+* Criticality
+
 The report contains very good critical evaluation of deployment choices, including cost, lock-in, regulation, operational complexity and resilience trade-offs. It does not simply describe ARM and Bicep, but explains where their use is strong and where platform limits remain. The infrastructure proposal sensibly distinguishes between production controls and a smaller proof of concept. The case study is effective in linking automation, security remediation and operational efficiency.
 
 * Use of relevant sources
+
 The source base is current, relevant and well matched to the topic. Microsoft Learn, NIST and the Microsoft case study are used to support specific claims. The report also uses cybersecurity material to contextualise the security discussion. Further breadth beyond vendor sources would strengthen the academic balance.
 
 * Structure and Presentation
+
 The report is cohesive, readable and well aligned with the assignment brief. It has a clear sequence, useful figures, a comparison table and an appendix for proof-of-concept evidence. The writing is concise and generally polished. The infrastructure design section could be slightly more explicit as a staged process.
 
 * Academic integrity
+
 The work shows strong academic integrity through consistent in-text citation and a complete reference list. Claims are generally attributed to credible sources. The evidence is clearly connected to the argument. The submission would be stronger with a slightly broader mix of independent academic sources alongside Microsoft documentation.
 
 * What your team did well
+
 The team produced a coherent, technically accurate and critical report that directly answers all parts of the brief.
 
 * How to improve
+
 Make the infrastructure design section more step-by-step and widen the source base beyond Microsoft materials.
 
 * Grade 	86 % (Distinction)
@@ -141,18 +148,23 @@ Make the infrastructure design section more step-by-step and widen the source ba
 * Dr. Stelios Sotiriadis - Feedback comments: 	
 
 * Knowledge and understanding of the topic/issues under consideration
+
 You show a sound understanding of hybrid cloud principles for a FinTech organisation, including private and public cloud segmentation, infrastructure as code, security, AI, serverless computing and resilience. The CoinMeister scenario is appropriate and the main business challenges are identifiable. Some explanations remain broad, and the work would be stronger with more precise technical and regulatory detail.
 
 * Criticality
+
 The report identifies important issues such as vendor lock-in, financial compliance, cybersecurity and business continuity. However, the analysis often states benefits rather than evaluating alternatives or explaining why one design choice is preferable to another. More explicit comparison of options, constraints and residual risks would improve the critical depth.
 
 * Use of relevant sources
+
 You use a relevant mix of cloud, AI, continuity, PCI DSS and GDPR sources. The source base is suitable, but some references are dated or only loosely connected to the specific FinTech design decisions. Stronger integration of sources into the argument would help show how the literature shaped the proposed architecture.
 
 * Structure and presentation
+
 The report follows a recognisable structure with sections on architecture, advanced technologies, risks and references. Presentation is generally clear, although there are several grammatical and phrasing issues that reduce academic polish. Figures and value-chain material help the report, but the written explanation should be more carefully edited.
 
 * Academic integrity
+
 The inclusion of references and a digital tools statement is positive and supports transparency. Citation practice is present, but it needs greater consistency in formatting and in linking claims to evidence. Further proofreading would also improve conformity with academic conventions.
 
 * What you did well
@@ -190,11 +202,11 @@ In this reflection, I apply the 3W model developed by Rolfe et al. (What? So Wha
 (Rolfe et al., 2001).
 
 
-Introduction
+**Introduction**
 I use this reflection to evaluates my learning and development throughout Units 1–12 using Rolfe et al.’s reflective model of What? So what? Now what? The model provides a framework for evaluating the development of my experiences, their significance, and how I will apply the learning acquired during this module in future practice. Across this module, my learning had evolved from comparing cloud vendors and developing cloud adoption and to practical deployment, automation, security assessment, disaster recovery, risk management, serverless computing, effective cloud architecture and strategic growth. These activities demonstrated that a cloud computing strategy involves not only technical implementation but requires governance, security, cost, resilience and business alignment.
 (Rolfe et al., 2001)
 
-Unit 1 – AWS and Azure Cloud
+* Unit 1 – AWS and Azure Cloud
 What?
 During Unit 1, I compared Amazon Web Services (AWS) and Microsoft Azure and discussed AWS Cloud. I initially focused on service differences, flexibility and pricing. AWS appeared strong in its breadth of configurable services, while Azure offered advantages for organizations employing Microsoft technologies. I also acknowledged that cloud pricing depends on workload design, resource selection and governance rather than simply choosing the cheapest provider.
 (Amazon Web Services, 2024a; Amazon Web Services, 2024b; Microsoft, 2026, Shamkura, 2025).
@@ -206,7 +218,7 @@ During this module, I expanded my understanding of cloud vendor selection, I hav
 Now what?
 I will focus on bringing cloud vendor selection strategy in alignment with the business mission, governance, security, scalability, infrastructure needs and cost efficiency, rather than focusing only on vendor service offering. This approach delivers a solid foundation for subsequent strategic and architectural decisions.
 
-Unit 2 – ROCCA and TOGAF
+* Unit 2 – ROCCA and TOGAF
 What?
 Unit 2 introduced the combination of the ROCCA model and TOGAF 9.2 for cloud adoption planning and enterprise architecture and demonstrate that cloud adoption should align with organizational strategy and targets, governance, processes and business requirements.
 (Anggraini, et al., 2019) 
@@ -423,7 +435,8 @@ References
 
 •	Yang, X., Arora, R.R., Jha, S., Narayanaswami, C., Lam, C., Leichter, J., Deng, Y. and Sow, D.M. (2024) ‘Optimizing IT FinOps and sustainability through unsupervised workload characterization’, Proceedings of the AAAI Conference on Artificial Intelligence, 38(21), pp.22990–22996.
 
-Use of Digital Tools
+* Use of Digital Tools
+  
 This document has been produced exclusively for educational purposes. Referenced content, copyrights, and trademarks, remain the sole property of the respective owner. ChatGPT 5.5 was used for some proofreading and clarity as well as literature exploration, language refinement, coding and programming techniques research. All academic writing, analysis, argumentation, and conclusions represent the original work of the author. AI tools were used for exploration, same way as academic literature exploration. No AI-generated content or code was directly copied into the final submission. Any use of content mentioned in this document is properly referenced to its original author and was used responsibly to ensure integrity and originality. All academic writing, analysis, argumentation, and conclusions represent my original work. I have used Artificial Intelligence responsibly and ethically, in accordance with the assignment brief. All AI use has been declared and evidenced.
 
 
