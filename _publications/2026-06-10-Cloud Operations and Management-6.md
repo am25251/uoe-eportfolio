@@ -98,10 +98,6 @@ excerpt: 'Cloud Operations and Management - cloud computing tools for scripting,
 <details>
 <summary>Tutor Feedback</summary>
 
-</details>
-
-
-
 
 * Dr. Stelios Sotiriadis - Feedback comments: 
 
@@ -128,7 +124,7 @@ Make the infrastructure design section more step-by-step and widen the source ba
 
 * Grade 	86 % (Distinction)
 
-
+</details>
 
 <br>
 
