@@ -142,35 +142,28 @@ Make the infrastructure design section more step-by-step and widen the source ba
 <summary>Tutor Feedback</summary>
 
 
-Graded on 	Tuesday, 13 October 2026, 8:47 AM
-Graded by 	Stelios SotiriadisStelios Sotiriadis
-Feedback comments 	
+* Dr. Stelios Sotiriadis - Feedback comments: 	
 
-Knowledge and understanding of the topic/issues under consideration
-
+* Knowledge and understanding of the topic/issues under consideration
 You show a sound understanding of hybrid cloud principles for a FinTech organisation, including private and public cloud segmentation, infrastructure as code, security, AI, serverless computing and resilience. The CoinMeister scenario is appropriate and the main business challenges are identifiable. Some explanations remain broad, and the work would be stronger with more precise technical and regulatory detail.
 
-Criticality
-
+* Criticality
 The report identifies important issues such as vendor lock-in, financial compliance, cybersecurity and business continuity. However, the analysis often states benefits rather than evaluating alternatives or explaining why one design choice is preferable to another. More explicit comparison of options, constraints and residual risks would improve the critical depth.
 
-Use of relevant sources
-
+* Use of relevant sources
 You use a relevant mix of cloud, AI, continuity, PCI DSS and GDPR sources. The source base is suitable, but some references are dated or only loosely connected to the specific FinTech design decisions. Stronger integration of sources into the argument would help show how the literature shaped the proposed architecture.
 
-Structure and presentation
-
+* Structure and presentation
 The report follows a recognisable structure with sections on architecture, advanced technologies, risks and references. Presentation is generally clear, although there are several grammatical and phrasing issues that reduce academic polish. Figures and value-chain material help the report, but the written explanation should be more carefully edited.
 
-Academic integrity
-
+* Academic integrity
 The inclusion of references and a digital tools statement is positive and supports transparency. Citation practice is present, but it needs greater consistency in formatting and in linking claims to evidence. Further proofreading would also improve conformity with academic conventions.
 
-What you did well
+* What you did well
 
 You selected a credible FinTech scenario and covered the key cloud technologies expected by the task.
 
-How to improve
+* How to improve
 
 Develop a more analytical argument, strengthen the evidence behind each design choice, and edit the work for academic precision.
 
