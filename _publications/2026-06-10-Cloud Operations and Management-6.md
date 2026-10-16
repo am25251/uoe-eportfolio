@@ -66,6 +66,10 @@ excerpt: 'Cloud Operations and Management - cloud computing tools for scripting,
 ### Unit 10: Unit 10: Advanced Cloud Technologies (Serverless Computing) 
 - [Unit 10 - Discussion Forum: OpenFaaS](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_10/Unit_10_Discussion_Forum_OpenFaaS_v1.pdf).
 
+### Unit 12: Unit 12: Future Trends in Cloud Computing 
+- [Unit 12 - Discussion Forum: AI, Blockchain, and Quantum Computing](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_12/Unit_12_Discussion_AI_Blockchain_and_Quantum_Computing.pdf).
+
+
 <br>
 
 
