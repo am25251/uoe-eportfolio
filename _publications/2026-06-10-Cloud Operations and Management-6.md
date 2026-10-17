@@ -94,7 +94,6 @@ excerpt: 'Cloud Operations and Management - cloud computing tools for scripting,
 <details>
 <summary>Tutor Feedback</summary>
 
-
 * Dr. Stelios Sotiriadis - Feedback comments: 
 
 * Knowledge and understanding of the topic/issues under consideration
@@ -139,7 +138,6 @@ Make the infrastructure design section more step-by-step and widen the source ba
 
 <details>
 <summary>Tutor Feedback</summary>
-
 
 * Dr. Stelios Sotiriadis - Feedback comments: 	
 
@@ -432,12 +430,6 @@ Across this module twelve units, my knowledge of Cloud Operations and Management
   
 This document has been produced exclusively for educational purposes. Referenced content, copyrights, and trademarks, remain the sole property of the respective owner. ChatGPT 5.5 was used for some proofreading and clarity as well as literature exploration, language refinement, coding and programming techniques research. All academic writing, analysis, argumentation, and conclusions represent the original work of the author. AI tools were used for exploration, same way as academic literature exploration. No AI-generated content or code was directly copied into the final submission. Any use of content mentioned in this document is properly referenced to its original author and was used responsibly to ensure integrity and originality. All academic writing, analysis, argumentation, and conclusions represent my original work. I have used Artificial Intelligence responsibly and ethically, in accordance with the assignment brief. All AI use has been declared and evidenced.
 
-
-
-<details>
-<summary>Tutor Feedback</summary>
-
-</details>
 
 
 
