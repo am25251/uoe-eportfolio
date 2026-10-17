@@ -84,14 +84,6 @@ excerpt: 'Cloud Operations and Management - cloud computing tools for scripting,
 
 <br>
 
-<details>
-<summary>Tutor Feedback</summary>
-
-</details>
-
-
-<br>
-
 ## Group Projects
 
 ### Unit 6: Hybrid Cloud Solutions (Hybrid, Fog, Edge Computing)
