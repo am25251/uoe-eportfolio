@@ -90,11 +90,7 @@ excerpt: 'Cloud Operations and Management - cloud computing tools for scripting,
 - [Unit 6 - Development Team Project: Cloud Infrastructure and Framework Report](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_6/Group_C_Unit_6_Cloud_Infrastructure_and_Framework_Report.pdf).
 **This was a group project of four members with a peer review**
 
-
-<details>
-<summary>Tutor Feedback</summary>
-
-</details>
+**Tutor Feedback**
 
 * Dr. Stelios Sotiriadis - Feedback comments: 
 
@@ -138,8 +134,7 @@ Make the infrastructure design section more step-by-step and widen the source ba
 - [Unit 11 - Development Individual Project: Executive Summary and Assessment](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_11/Unit_11_Development_Individual_Project_Executive_Summary_and_Assessment_v1.pdf).
 
 
-<details>
-<summary>Tutor Feedback</summary>
+**Tutor Feedback**
 
 * Dr. Stelios Sotiriadis - Feedback comments: 	
 
@@ -172,8 +167,6 @@ You selected a credible FinTech scenario and covered the key cloud technologies 
 Develop a more analytical argument, strengthen the evidence behind each design choice, and edit the work for academic precision.
 
 * Grade 	65 % (Merit)
-
-</details>
 
 
 <br>
