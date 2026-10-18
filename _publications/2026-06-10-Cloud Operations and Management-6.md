@@ -86,9 +86,9 @@ excerpt: 'Cloud Operations and Management - cloud computing tools for scripting,
 
 ## Group Projects
 
-### Unit 6: Hybrid Cloud Solutions (Hybrid, Fog, Edge Computing)
+### Unit 6: Hybrid Cloud Solutions (Hybrid, Fog, Edge Computing) (Group Project of Four Members with a Peer Review)
 - [Unit 6 - Development Team Project: Cloud Infrastructure and Framework Report](https://am25251.github.io/uoe-eportfolio/files/05_Cloud_Operations_and_Management_July_2026/Unit_6/Group_C_Unit_6_Cloud_Infrastructure_and_Framework_Report.pdf).
-**This was a group project of four members with a peer review**
+
 
 **Tutor Feedback**
 
