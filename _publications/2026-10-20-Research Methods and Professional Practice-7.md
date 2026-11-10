@@ -47,7 +47,7 @@ excerpt: 'Research Methods and Professional Practice -  Critical appraisal, lega
 
 
 ### Unit 1: Introduction to Research Methods - The Scientific Investigation and Ethics in Computing
-- [Unit 1 - Unit_1_Collaborative_Discussion_Code_of_Ethics_and_Professional_Conduct](https://am25251.github.io/uoe-eportfolio/files/06_Research_Method_and_Professional_Practice_October_2026/Unit_2/Peer_Response_2_Unit_1_Collaborative_Discussion_Code_of_Ethics_and_Professional_Conduct.pdf).
+- [Unit 1 - Unit_1_Collaborative_Discussion_Code_of_Ethics_and_Professional_Conduct](https://am25251.github.io/uoe-eportfolio/files/06_Research_Method_and_Professional_Practice_October_2026/Unit_3/Peer_Response_2_Unit_1_Collaborative_Discussion_Code_of_Ethics_and_Professional_Conduct.pdf).
 
 
 
